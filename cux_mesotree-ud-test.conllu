@@ -218,22 +218,6 @@
 4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = ftyers
-# hash = 2a82060a521099560c5f12858eb7260d
-# finished = Yes
-# text = Gua, gua já.
-# text[spa] = No, no es nueva.
-# sent_id = alimg:16:6
-# tagged = true
-# text[orig] = Gua, gua já.
-# timestamp = 1739032991239
-# alimg = No, no es nueva.
-1	Gua	_	PART	_	_	0	root	_	Gloss=NEG|SpaceAfter=No|Trad=no
-2	,	,	PUNCT	_	_	4	punct	_	_
-3	gua	_	ADV	_	_	4	advmod:neg	_	Gloss=NEG|Trad=no
-4	já	_	ADJ	_	_	1	parataxis	_	SpaceAfter=No|Trad=nuevo|UPOS=Guessed
-5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = ftyers
 # hash = 0f10e1d666dabd0eb970aa255dfd37ec
 # finished = Yes
 # text = Tika.
@@ -573,20 +557,6 @@
 # user_id = ftyers
 # hash = 58d0b3c957a3b5f1bcda9ba968add650
 # finished = Yes
-# text = Din rúʼu.
-# text[spa] = Tú eres gordo
-# sent_id = alimg:43:8
-# tagged = true
-# text[orig] = Din rú'u.
-# timestamp = 1739033216822
-# alimg = Tú eres gordo
-1	Din	inti	PRON	_	PronType=Prs|Typo=Yes	2	nsubj	_	Gloss=2SG.RES|Normal=inti|Trad=usted
-2	rúʼud	_	ADJ	_	_	0	root	_	Error=TokenLevel|SpaceAfter=No|Trad=gordo|UPOS=Guessed
-3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = ftyers
-# hash = 58d0b3c957a3b5f1bcda9ba968add650
-# finished = Yes
 # text = Dí bíchad.
 # text[spa] = Tú eres gordo
 # sent_id = alimg:44:8
@@ -667,22 +637,6 @@
 1	Sakón	sakó	PRON	_	PronType=Prs|Typo=Yes	2	nsubj	_	Gloss=3.MSC|Normal=sakó|Trad=él
 2	bíchas	_	ADJ	_	_	0	root	_	SpaceAfter=No|Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = ftyers
-# hash = cf3b122ff2a36ef8a8ff7455b91b827e
-# finished = Yes
-# note[orig] = (exclusivo)
-# text = ʼUu rúʼuu.
-# text[spa] = Nosotros somos gordos.
-# sent_id = alimg:50:8
-# note[trad] = ('Uu= se utiliza en la conversación cuando hablan solo los que están incluidos en el adjetivo)
-# tagged = true
-# text[orig] = 'Uu rú'uu.
-# timestamp = 1739033263300
-# alimg = Nosotros somos gordos. (exclusivo)
-1	ʼUu	ʼuu	PRON	_	PronType=Prs	2	nsubj	_	Gloss=1PL.INC|Trad=nosotros
-2	ruʼuu	_	ADJ	_	_	0	root	_	Error=TokenLevel|Trad=gordos|UPOS=Guessed
-3	.	.	PUNCT	_	_	2	punct	_	_
 
 # user_id = ftyers
 # hash = bbf0f1028f341037c19d008aec6174a5
@@ -898,22 +852,6 @@
 1	Baku	_	NOUN	_	_	3	nsubj	_	Trad=casa
 2	insén	insë	PRON	_	PronType=Prs|Typo=Yes	1	nmod	_	Gloss=2PL|Normal=insë|Trad=ustedes
 3	cheatea	_	ADJ	_	VerbForm=Stat	0	root	_	SpaceAfter=No|Trad=grande
-4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = ftyers
-# hash = 66ef2970378dafb9a6b03fa1c4272e40
-# finished = Yes
-# text = Yudú ñeʼë cheatea.
-# text[spa] = Mis metates son grandes.
-# sent_id = alimg:70:9
-# note[trad] = (no es plural)
-# tagged = true
-# text[orig] = Yudú ñe'ë cheatea.
-# timestamp = 1739033376590
-# alimg = Mis metates son grandes.
-1	Yudú	_	NOUN	_	_	3	nsubj	_	Trad=metate
-2	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	1	nmod:poss	_	Gloss=base-POSS.1SG|Trad=de.mí
-3	cheateat	_	ADJ	_	VerbForm=Stat	0	root	_	Error=TokenLevel|SpaceAfter=No|Trad=grande
 4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = ftyers
@@ -1420,26 +1358,6 @@
 4	tubnéd	_	VERB	_	_	2	acl	_	Gloss=?-prestar-2SG|Trad=prestaste
 5	ú	uu	PRON	_	PronType=Prs	4	iobj	_	Gloss=1SG|SpaceAfter=No|Trad=yo
 6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = ftyers
-# hash = 8dbd69d299932af8b4a94c2c84106975
-# finished = Yes
-# text = No baʼa kane ama machete chi gua ñeʼë.
-# text[spa] = En casa tengo un machete que no es mío.
-# sent_id = alimg:187:80
-# tagged = true
-# text[orig] = No ba'a kane ama machete chi gua ñe'ë.
-# timestamp = 1739302510642
-# alimg = En casa tengo un machete que no es mío.
-1	No	no	ADP	_	_	2	case	_	Gloss=LOC|Trad=en
-2	baʼa	_	NOUN	_	_	0	root	_	Trad=casa
-3	kane	_	VERB	_	_	2	cop	_	Gloss=?-estar-?|Trad=está
-4	ama	_	NUM	_	NumType=Card	5	nummod	_	Trad=uno
-5	machete	_	NOUN	_	_	2	nsubj	_	Trad=machete
-6	chi	chi	SCONJ	_	_	8	mark	_	Gloss=COMPL|Trad=que
-7	gua	_	ADV	_	_	8	advmod	_	Gloss=NEG|Trad=no
-8	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	5	acl	_	Gloss=base-POSS.1SG|SpaceAfter=No|Trad=de.mí
-9	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = ftyers
 # hash = 020819fb83c5812ad73015a051f7dd2d
@@ -2017,20 +1935,6 @@
 2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = ftyers
-# hash = 88ff1468ebc09056b1d2b105b3c41695
-# finished = Yes
-# text = Lï jiyaduy.
-# text[spa] = Duerme poco.
-# sent_id = alimg:331:182
-# tagged = true
-# text[orig] = Lï jiyaduy.
-# timestamp = 1739916342227
-# alimg = Duerme poco.
-1	Lï	_	ADV	_	Number=Sing|VerbForm=Stat	2	advmod	_	Trad=pequeño
-2	jiyaduy	kiyadu	VERB	_	Animacy=Hum|Aspect=Prog|Person=3|Subcat=Intr|VerbForm=Fin	0	root	_	Gloss=PROG-dormir-3.HUM|SpaceAfter=No|Trad=duerme
-3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = ftyers
 # hash = 4114413b1990f0958add812ee2bbd4e8
 # finished = Yes
 # text = Jiyadu jobe.
@@ -2478,52 +2382,6 @@
 7	gua	_	PART	_	_	6	parataxis	_	Gloss=NEG|SpaceAfter=No|Trad=no
 8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
-# user_id = ftyers
-# hash = 51b63e7506a9b1ef8e9bdafd9b272eb1
-# finished = Yes
-# text = Insën rúʼun.
-# text[spa] = Ustedes son gordos.
-# sent_id = alimg:52:8
-# tagged = true
-# text[orig] = Insën rú'un.
-# timestamp = 1739033274097
-# alimg = Ustedes son gordos.
-1	Insën	insë	PRON	_	PronType=Prs|Typo=Yes	2	nsubj	_	Gloss=2PL|Normal=insë|Trad=ustedes
-2	rúʼun	_	ADJ	_	_	_	_	_	SpaceAfter=No|Trad=gordo|UPOS=Guessed
-3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = ftyers
-# hash = a0f97205eb70db854dfa7271a3c89fdc
-# finished = Yes
-# text = Kane chete baʼa.
-# text[spa] = Está dentro de la casa.
-# sent_id = alimg:131:48
-# tagged = true
-# text[orig] = Kane chete ba'a.
-# timestamp = 1739243583994
-# alimg = Está dentro de la casa.
-1	Kane	_	AUX	_	_	3	cop	_	Gloss=?-estar-?|Trad=está
-2	chete	_	ADP	_	_	3	case	_	Trad=estómago
-3	baʼa	_	NOUN	_	_	0	root	_	SpaceAfter=No|Trad=casa
-4	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1750952867003
-# hash = d4c6e46e9317c1a64f81d021493f051d
-# text = ¿A taka baʼa mi?
-# text[spa] = ¿Cómo es esa casa?
-# sent_id = alimg:11:2
-# tagged = true
-# text[orig] = ¿A taka ba'a mi?
-# alimg = ¿Cómo es esa casa?
-# finished = Yes
-1	¿	¿	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	A	a	AUX	_	_	3	discourse	_	Gloss=QST
-3	taka	taka	ADV	_	_	0	root	_	Trad=cómo
-4	baʼa	_	NOUN	_	_	3	nsubj	_	Trad=casa
-5	mi	_	DET	_	_	4	det	_	SpaceAfter=No|Trad=esa
-6	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
 # user_id = MadaiH
 # timestamp = 1750953099399
 # hash = 9ae3b74d9771833417664618cfb4e245
@@ -2693,25 +2551,6 @@
 7	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1750954937319
-# hash = de695ad58a82b4d1533919cc1d0ce2c5
-# text = ¿A iku chi kenés Jibaku?
-# text[spa] = ¿Ayer estaba en Cuicatlán?
-# sent_id = alimg:108:34
-# note[trad] = (sujeto masculino)
-# tagged = true
-# text[orig] = ¿A iku chi kenés Jibaku?
-# alimg = Ayer Juan estuvo en Huamantla?
-# finished = Yes
-1	¿	¿	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	A	a	PART	_	_	3	discourse	_	Gloss=QST
-3	iku	íku	ADV	_	Typo=Yes	0	root	_	Normal=íku|Trad=ayer
-4	chi	chi	SCONJ	_	_	6	mark	_	Gloss=COMPL|Trad=que
-5	kenés	_	VERB	_	_	6	cop	_	Trad=estaba
-6	Jibaku	_	PROPN	_	_	3	obj	_	Gloss=LOC|SpaceAfter=No|Trad=Cuicatlán
-7	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1772751000087
 # hash = bb41e14b824235e687a6db327d3a47c7
 # text = ¿A ti kane chidad?
@@ -2727,21 +2566,6 @@
 4	kane	_	AUX	_	_	5	cop	_	Gloss=?-estar-?|Trad=está
 5	chidad	_	NOUN	_	_	0	root	_	Gloss=papá-POSS.2SG|SpaceAfter=No|Trad=tu.papá
 6	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1772751098407
-# hash = 01ae1fd8c1b0e8868242d6376c0ffa64
-# text = Chidan guay baʼa.
-# text[spa] = Mi papá no está en la casa.
-# sent_id = alimg:114:38
-# tagged = true
-# text[orig] = Chidan guay ba'a.
-# alimg = Mi papá no está en la casa.
-# finished = Yes
-1	Chidan	_	NOUN	_	_	3	nsubj	_	Trad=mi.papá
-2	guay	_	ADV	_	VerbForm=Fin	3	advmod	_	Gloss=?-traer-3.HUM|Trad=traer
-3	baʼa	_	NOUN	_	_	0	root	_	SpaceAfter=No|Trad=casa
-4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1750955365057
@@ -2914,38 +2738,6 @@
 6	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1750956991205
-# hash = 9fc44e865e5b1019522519993efa3ae9
-# text = Ku laka kane yáku.
-# text[spa] = Por allá está la iglesia
-# sent_id = alimg:136:51
-# tagged = true
-# text[orig] = Ku laka kane yáku.
-# alimg = La iglesia está más adelante.
-# finished = Yes
-1	Ku	_	ADP	_	_	2	case	_	Trad=este
-2	laka	_	NOUN	_	_	0	root	_	Trad=chachalaca|UPOS=Guessed
-3	kane	_	VERB	_	_	2	cop	_	Gloss=?-estar-?|Trad=está
-4	yáku	_	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Trad=iglesia
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1750957518056
-# hash = 397383cb0ea57eca801c42204e7648d5
-# text = ¿A ti kane.
-# text[spa] = ¿Dónde está el corral de las chivas?
-# sent_id = alimg:137:52
-# tagged = true
-# text[orig] = ¿A ti kane.
-# alimg = ¿Dónde está el corral de las chivas?
-# finished = Yes
-1	¿	¿	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	A	a	PART	_	_	3	discourse	_	Gloss=QST
-3	ti	_	DET	_	_	0	root	_	Trad=ese
-4	kane	_	VERB	_	_	3	cop	_	Gloss=?-estar-?|SpaceAfter=No|Trad=está
-5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1750957543054
 # hash = b5cf382b2e2605a7273873d85e73a8ec
 # text = Na chinu núnim niʼö.
@@ -2961,24 +2753,6 @@
 3	núnim	_	NOUN	_	_	2	nsubj	_	Trad=frijol
 4	niʼö	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=en.la.olla
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1750957558937
-# hash = 69e3cc1f5eba2e0ec7f0b93e0c40e6f4
-# text = Yada kon kanut no tiʼö ko.
-# text[spa] = Ese pájaro está en ese árbol
-# sent_id = alimg:143:56
-# tagged = true
-# text[orig] = Yada kon kanut no ti'ö ko.
-# alimg = El pájaro está en ese árbol
-# finished = Yes
-1	Yada	_	NOUN	_	_	5	nsubj	_	Trad=pájaro
-2	kon	_	DET	_	_	1	det	_	Trad=ese
-3	kanut	_	VERB	_	_	5	cop	_	Trad=está
-4	no	no	ADP	_	_	5	case	_	Gloss=LOC|Trad=en
-5	tiʼö	_	NOUN	_	_	0	root	_	Trad=árbol
-6	ko	_	DET	_	_	5	det	_	SpaceAfter=No|Trad=ese
-7	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1750957582666
@@ -3273,23 +3047,6 @@
 # alimg = Tenemos dos perros. (inclusivo)
 # finished = Yes
 1	Insú	insú	PRON	_	PronType=Prs	2	dislocated	_	Gloss=1PL.EXC|Trad=nosotros
-2	bea	_	VERB	_	_	0	root	_	Gloss=?-existir-3|Trad=hay
-3	obe	_	NUM	_	_	4	nummod	_	Trad=dos
-4	yana	_	NOUN	_	_	2	nsubj	_	Trad=perro
-5	ñeʼen	_	NOUN	_	NounType=Relat	4	nmod:poss	_	SpaceAfter=No|Trad=de.nosotros
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1750962687971
-# hash = 329035d13855bb963bca6cc90037b18a
-# text = Insë bea obe yana ñeʼen.
-# text[spa] = Ustedes tienen dos perros.
-# sent_id = alimg:165:60
-# tagged = true
-# text[orig] = Insë bea obe yana ñe'en.
-# alimg = Ustedes tienen dos perros.
-# finished = Yes
-1	Insë	insë	PRON	_	PronType=Prs	2	nsubj	_	Gloss=2PL|Trad=ustedes
 2	bea	_	VERB	_	_	0	root	_	Gloss=?-existir-3|Trad=hay
 3	obe	_	NUM	_	_	4	nummod	_	Trad=dos
 4	yana	_	NOUN	_	_	2	nsubj	_	Trad=perro
@@ -3593,23 +3350,6 @@
 3	soʼö	_	NOUN	_	_	4	clf	_	Trad=hombre
 4	biʼi	_	NOUN	_	_	1	nsubj	_	Ambiguous=Yes|SpaceAfter=No|Trad=hermano(a),mi.hermano
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1756310424308
-# hash = 87191450e2917ca0694640da790e0cec
-# text = ¿A tabea biʼid bea?
-# text[spa] = ¿Cuántos hermanos tienes?
-# sent_id = alimg:200:90
-# tagged = true
-# text[orig] = ¿A tabea bi'id bea?
-# alimg = ¿Cuántos hermanos tienes?
-# finished = Yes
-1	¿	¿	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	A	a	PART	_	_	3	discourse	_	Gloss=QST
-3	tabea	_	PRON	_	_	0	root	_	Trad=cuánto
-4	biʼid	_	NOUN	_	_	3	nsubj	_	Trad=tu.hermano
-5	bea	_	VERB	_	_	3	cop	_	Gloss=?-existir-3|SpaceAfter=No|Trad=hay
-6	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1750975742558
@@ -4271,21 +4011,6 @@
 5	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1756313540472
-# hash = 9b36b7986f1ff31b4ff84c0f25245371
-# text = Ún jobe Pedro.
-# text[spa] = Me llamo Pedro.
-# sent_id = alimg:309:169
-# tagged = true
-# text[orig] = Ún jobe Pedro.
-# alimg = Me llamo Pedro.
-# finished = Yes
-1	Ún	uu	PRON	_	PronType=Prs|Typo=Yes	2	nsubj	_	Gloss=1SG|Normal=ú|Trad=yo
-2	jobe	_	NOUN	_	_	0	root	_	Trad=día
-3	Pedro	_	PROPN	_	_	2	nsubj	_	SpaceAfter=No|Trad=Pedro
-4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1756313547144
 # hash = 269c1c735810636de86cf32850407afb
 # text = Icha.
@@ -4751,22 +4476,6 @@
 6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1772839516903
-# hash = d5840ae70ca693023f8b60ed6341cb35
-# text = Un guadbea jikadi jidi.
-# text[spa] = No puedo hacer nada
-# sent_id = alimg:425:216
-# tagged = true
-# text[orig] = Un guadbea jikadi jidi.
-# alimg = Yo no sé hacer nada.
-# finished = Yes
-1	Un	uu	PRON	_	PronType=Prs|Typo=Yes	4	dislocated	_	Gloss=1SG|Normal=ú|Trad=yo
-2	guadbea	_	ADV	_	_	3	advmod	_	Trad=nada|UPOS=Guessed
-3	jikadi	_	VERB	_	VerbForm=Fin	4	aux	_	Gloss=?-poder-?|Trad=puede
-4	jidi	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-hacer-?|SpaceAfter=No|Trad=hace
-5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1756411323667
 # hash = f4be4162d4632890058fabfe83f153f9
 # text = Gua deanu.
@@ -4862,23 +4571,6 @@
 3	tum	_	SCONJ	_	_	4	mark	_	Trad=para.que
 4	nichid	_	VERB	_	VerbForm=Fin	1	advcl	_	Gloss=?-ver-2SG|Trad=viste
 5	soʼö	_	NOUN	_	_	4	obj	_	SpaceAfter=No|Trad=hombre
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1756915667111
-# hash = b5fb72cc43549ba8736f4af0c0018e60
-# text = Koʼö a ndar gea kubi.
-# text[spa] = Voy a ir aunque está lloviendo.
-# sent_id = alimg:813:557
-# tagged = false
-# text[orig] = Ko'ö a ndar gea kubi.
-# alimg = Voy a ir aunque está lloviendo.
-# finished = Yes
-1	Koʼö	kaʼan	VERB	_	VerbForm=Fin	0	root	_	Gloss=POT-ir-1SG|Trad=iré
-2	a	a	PART	_	_	5	dep	_	Gloss=QST
-3	ndar	_	SCONJ	_	_	5	mark	_	_
-4	gea	_	VERB	_	_	5	cop	_	Trad=subida|UPOS=Guessed
-5	kubi	_	NOUN	_	_	1	obj	_	SpaceAfter=No|Trad=lluvia
 6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
@@ -5567,21 +5259,6 @@
 6	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1757548938934
-# hash = 8bfe2b0bb01102a70c9ee629792b0ebe
-# text = Neʼë kune muʼu.
-# text[spa] = Quiero quedarme aquí.
-# sent_id = alimg:447:237
-# tagged = true
-# text[orig] = Ne'ë kune mu'u.
-# alimg = Quiero quedarme aquí.
-# finished = Yes
-1	Neʼë	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-querer-1SG|Trad=quiero
-2	kune	_	VERB	_	_	1	cop	_	Gloss=?-quedarse-?|Trad=quedarse
-3	muʼu	_	ADV	_	_	1	obl	_	SpaceAfter=No|Trad=aquí
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1757548973239
 # hash = 4d7fb4facb8802e7683df12eb0e4a63e
 # text = Neʼë chi kuned muʼu.
@@ -6074,22 +5751,6 @@
 6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1757574279051
-# hash = 7eddff04698295110b24f4db202075ef
-# text = Iku yeaben dí ntiñu.
-# text[spa] = Ayer tuve que trabajar mucho.
-# sent_id = alimg:487:276
-# tagged = true
-# text[orig] = Iku yeaben dí ntiñu.
-# alimg = Ayer tuve que trabajar mucho.
-# finished = Yes
-1	Iku	íku	ADV	_	Typo=Yes	3	advmod	_	Normal=íku|Trad=ayer
-2	yeaben	_	ADV	_	Typo=Yes	3	advmod	_	Normal=yeabean|Trad=.muy,mucho
-3	dí	dí	NOUN	_	PronType=Prs	0	root	_	Gloss=2SG|Trad=tú
-4	ntiñu	_	NOUN	_	_	3	obj	_	SpaceAfter=No|Trad=trabajo
-5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1757626082638
 # hash = 9b45ed42eb12f6c50095dd44f2bbc202
 # text = Neʼe chi koʼöd did ntiñu.
@@ -6236,22 +5897,6 @@
 4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773332805585
-# hash = 487ee58656470838625a9e0bac8bd9d6
-# text = Gua deanu chea neʼeta.
-# text[spa] = No sé cuál quere.
-# sent_id = alimg:499:287
-# tagged = true
-# text[orig] = Gua deanu chea ne'eta.
-# alimg = No sé cuál quere.
-# finished = Yes
-1	Gua	_	ADV	_	_	2	advmod	_	Gloss=NEG|Trad=no
-2	deanu	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-saber-1SG|Trad=sé
-3	chea	_	DET	_	PronType=Int	2	obj	_	Trad=cuál
-4	neʼeta	_	VERB	_	_	3	nmod:poss	_	Gloss=?-querer-?|SpaceAfter=No|Trad=quiere
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1757626361346
 # hash = c623d3e2d5f0c641cd0f3338f0aeee7f
 # text = Nikua ndininu comida ñeʼe muʼu.
@@ -6360,21 +6005,6 @@
 4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1757575231213
-# hash = 42ac1df1de69bb20f1b43f402376a769
-# text = Iku chinu chichí.
-# text[spa] = Ayer acabé de sembrar.
-# sent_id = alimg:508:296
-# tagged = true
-# text[orig] = Iku chinu chichí.
-# alimg = Ayer acabé de sembrar.
-# finished = Yes
-1	Iku	íku	ADV	_	Typo=Yes	3	advmod	_	Normal=íku|Trad=ayer
-2	chinu	kanu	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	3	advmod	_   _
-3	chichí	_	VERB	_	_	0	root	_	Gloss=?-sembrar-?|SpaceAfter=No|Trad=sembrar
-4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1757575234427
 # hash = a6764495a9e98601ee920d97eecc1b83
 # text = Kabiö kuin kùchi.
@@ -6437,24 +6067,6 @@
 6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1757621157530
-# hash = 6785cb4cf104fe5afe18a26dad52d904
-# text = ¿A neʼéd ama née Jiguyum?
-# text[spa] = ¿Has ido alguna vez a México?
-# sent_id = alimg:514:302
-# tagged = true
-# text[orig] = ¿A ne'éd ama née Jiguyum?
-# alimg = ¿Has ido alguna vez a Huamantla?
-# finished = Yes
-1	¿	¿	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	A	a	PART	_	_	3	discourse	_	Gloss=QST
-3	neʼéd	_	VERB	_	VerbForm=Fin	0	root	_	Trad=necesitas
-4	ama	_	NUM	_	NumType=Card	5	nummod	_	Trad=uno
-5	née	_	NOUN	_	_	3	advmod	_	Trad=vez
-6	Jiguyum	_	PROPN	_	_	3	obl	_	SpaceAfter=No|Trad=México
-7	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1757621399941
 # hash = dd35612b0a3b5dfa0b5659b5ce17f2e7
 # text = ¿Takue chi gua cheʼë insé?
@@ -6471,23 +6083,6 @@
 5	cheʼë	kaʼan	VERB	_	VerbForm=Fin	0	root	_	Gloss=CPL-ir-1SG|Trad=fui
 6	insé	insë	PRON	_	PronType=Prs|Typo=Yes	5	nsubj	_	Gloss=2PL|Normal=insë|SpaceAfter=No|Trad=ustedes
 7	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1757621608270
-# hash = 6ce2d019d2cbde1e73021aa6e80c1a97
-# text = Job jobe jichis ñeʼe yuduu.
-# text[spa] = Viene todos los días por los caballos.
-# sent_id = alimg:516:304
-# tagged = true
-# text[orig] = Job jobe jichis ñe'e yuduu.
-# alimg = Viene todos los días por los caballos.
-# finished = Yes
-1	Job	_	ADV	_	_	2	advmod	_	Trad=día
-2	jobe	_	NOUN	_	_	3	advmod	_	Trad=día
-3	jichis	chi	VERB	_	Aspect=Prog|Gender=Masc|Person=3|Subcat=Intr|VerbForm=Fin	0	root	_	Gloss=PROG-venir-3.MSC|Trad=viene
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	5	nmod:poss	_	Gloss=base-POSS.3|Trad=de.él
-5	yuduu	_	NOUN	_	_	3	obj	_	SpaceAfter=No|Trad=caballo
-6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1757621662813
@@ -6592,25 +6187,6 @@
 8	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758226582353
-# hash = bfc99c6b7c538ab95d62fb2293a5d090
-# text = ¡Ted kaja nochi jinabad kerillo ú!
-# text[spa] = ¡Dame la caja donde guardas los cerillos!
-# sent_id = alimg:735:504
-# tagged = true
-# text[orig] = ¡Ted kaja nochi jinabad kerillo ú!
-# alimg = ¡Dame la caja donde guardas los cerillos!
-# finished = Yes
-1	¡	¡	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=CPL-dar-2SG|Trad=dio
-3	kaja	_	NOUN	_	_	2	csubj	_	Trad=caja
-4	nochi	_	ADV	_	AdvType=Rel	5	advmod	_	Trad=donde
-5	jinabad	_	VERB	_	_	3	advcl	_	Gloss=?-guardar-2SG|Trad=guardas
-6	kerillo	_	NOUN	_	_	5	nmod	_	Trad=cerillo
-7	ú	uu	PRON	_	PronType=Prs	2	iobj	_	Gloss=1SG|SpaceAfter=No|Trad=yo
-8	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773332763743
 # hash = 0d62ec9f9f6cb2614e8179b7f6d3f5ba
 # text = ¡Ted gikuu nuku chi íkad yuta ú!
@@ -6661,24 +6237,6 @@
 1	Nichi	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ver-1SG|Trad=vi
 2	chë	_	NOUN	_	_	1	obj	_	SpaceAfter=No|Trad=señor
 3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1757626608365
-# hash = fae75349684a5cab02eff147e13a68c3
-# text = Am amas kanós ñeʼe no baʼa.
-# text[spa] = Los hombres salieron de la casa uno por uno.
-# sent_id = alimg:804:550
-# tagged = true
-# text[orig] = Am amas kanós ñe'e no ba'a.
-# alimg = Los hombres salieron de la casa uno por uno.
-# finished = Yes
-1	Am	_	NUM	_	_	2	nummod	_	Trad=uno
-2	amas	_	NUM	_	_	3	nummod	_	Trad=en.uno
-3	kanós	_	VERB	_	_	0	root	_	Gloss=?-salir-?|Trad=salieron
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	6	amod:poss	_	Gloss=base-POSS.3|Trad=de.él
-5	no	no	ADP	_	_	6	case	_	Gloss=LOC|Trad=en
-6	baʼa	_	NOUN	_	_	3	obl	_	SpaceAfter=No|Trad=casa
-7	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758226862480
@@ -6774,44 +6332,6 @@
 8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758227385762
-# hash = febc96593f1ae8742ddd10f2872ea6de
-# text = Nichi nichi soʼö tum kaka machetem soʼö.
-# text[spa] = Si lo veo le pido el machete.
-# sent_id = alimg:816:560
-# tagged = true
-# text[orig] = Nichi nichi so'ö tum kaka machetem so'ö.
-# alimg = Si lo veo le pido el machete.
-# finished = Yes
-1	Nichi	_	SCONJ	_	VerbForm=Fin	2	mark	_	Gloss=?-ver-1SG|Trad=vi
-2	nichi	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ver-1SG|Trad=vi
-3	soʼö	_	NOUN	_	_	2	obj	_	Trad=hombre
-4	tum	_	SCONJ	_	_	5	mark	_	Trad=para.que
-5	kaka	_	NOUN	_	_	2	xcomp	_	Trad=papel
-6	machetem	_	NOUN	_	_	5	obj	_	Trad=machete
-7	soʼö	_	NOUN	_	_	5	iobj	_	SpaceAfter=No|Trad=hombre
-8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758227452501
-# hash = 2fa86e12ea7af2a94b0dfdf79177e879
-# text = Nichi nichi soʼön tumin chika machetem soʼö.
-# text[spa] = Si lo hubera visto le habría pedido el machete.
-# sent_id = alimg:818:562
-# tagged = true
-# text[orig] = Nichi nichi so'ön tumin chika machetem so'ö.
-# alimg = Si lo hubera visto le habría pedido el machete.
-# finished = Yes
-1	Nichi	_	SCONJ	_	VerbForm=Fin	2	mark	_	Gloss=?-ver-1SG|Trad=vi
-2	nichi	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ver-1SG|Trad=vi
-3	soʼön	sakó	PRON	_	PronType=Prs|Typo=Yes	2	obj	_	Gloss=3.MSC|Normal=sakó|Trad=él
-4	tumin	_	SCONJ	_	_	5	mark	_	Trad=para.que
-5	chika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|Typo=Yes|VerbForm=Fin	2	xcomp	_	Gloss=CPL-cortar-1SG|Normal=chìka|Trad=corté
-6	machetem	_	NOUN	_	_	5	obj	_	Trad=machete
-7	soʼö	_	NOUN	_	_	5	iobj	_	SpaceAfter=No|Trad=hombre
-8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758227661429
 # hash = f6dd1dfee8d36c9741da92a224eb7c6d
 # text = Nigua noʼö ti gua jidí ntiñu.
@@ -6879,23 +6399,6 @@
 3	ni	_	ADV	_	_	5	advmod	_	Trad=hasta
 4	tochi	tochi	SCONJ	_	_	5	mark	_	Gloss=cuando|Trad=cuando
 5	ndod	_	VERB	_	VerbForm=Fin	2	ccomp	_	Gloss=?-llegar-2SG|SpaceAfter=No|Trad=llegaste
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758227884020
-# hash = c2cb31cb21ca0d5c9207e81580e47c93
-# text = Dí kuned ti jeʼe yuntu.
-# text[spa] = Quédate quieto porque estoy comiendo
-# sent_id = alimg:828:572
-# tagged = true
-# text[orig] = Dí kuned ti je'e yuntu.
-# alimg = No me molestes cuando estoy comiendo.
-# finished = Yes
-1	Dí	dí	ADV	_	PronType=Prs	2	advmod	_	Gloss=2SG|Trad=tú
-2	kuned	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ayudar-2SG|Trad=ayuda
-3	ti	_	CCONJ	_	_	4	cc	_	Trad=ese
-4	jeʼe	cheʼe	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	2	ccomp	_	Gloss=PROG-comer-1SG|Trad=como
-5	yuntu	_	NOUN	_	_	4	obj	_	SpaceAfter=No|Trad=tortilla
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
@@ -7835,22 +7338,6 @@
 3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1757631347693
-# hash = ccfa0f8bcb7d8a9542e578f42fd6161f
-# text = Yaami di kuä kutu.
-# text[spa] = El humo ennegreció la olla.
-# sent_id = alimg:579:367
-# tagged = false
-# text[orig] = yaami di kuä kutu.
-# alimg = El humo ennegreció la olla.
-# finished = Yes
-1	Yaami	_	NOUN	_	_	2	nsubj	_	_
-2	di	_	VERB	_	PronType=Prs	0	root	_	Gloss=2SG|Trad=tú
-3	kuä	_	ADJ	_	_	4	amod	_	Trad=negro|UPOS=Guessed
-4	kutu	_	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Trad=olla
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1757631376365
 # hash = 01f2b037e943119bcea9c9ae2f6773ac
 # text = Chí yana ñeʼe.
@@ -8315,20 +7802,6 @@
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1757632061475
-# hash = c6a1e316fcae5f0b7771941d5d3e8d4c
-# text = Dituu nded.
-# text[spa] = ¡Habla en voz alta!
-# sent_id = alimg:627:411
-# tagged = false
-# text[orig] = Dituu nded.
-# alimg = ¡Habla en voz alta!
-# finished = Yes
-1	Dituu	_	ADV	_	VerbForm=Stat	2	advmod	_	Trad=fuerte
-2	nded	_	VERB	_	_	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1757632081228
 # hash = b497483a2da760db6fba4acc0d5e7004
 # text = Kodkó nded.
@@ -8409,23 +7882,6 @@
 3	kodkó	_	ADV	_	_	4	advmod	_	_
 4	jika	_	NOUN	_	_	0	root	_	SpaceAfter=No|Trad=camina
 5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1757632438980
-# hash = 5ead730be5e522363ec39ceb83ddb428
-# text = ¿Ñeʼe dae chí diäd?
-# text[spa] = ¿De qué murió tu tío?
-# sent_id = alimg:647:424
-# tagged = false
-# text[orig] = ¿Ñe'e dae chí diäd?
-# alimg = ¿De qué murió tu tío?
-# finished = Yes
-1	¿	¿	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Ñeʼe	ñeʼe	ADP	_	NounType=Relat	4	case	_	Gloss=base-POSS.3|Trad=de.él
-3	dae	_	PRON	_	_	4	nsubj	_	Trad=que
-4	chí	_	VERB	_	_	0	root	_	_
-5	diäd	_	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758230979103
@@ -8604,22 +8060,6 @@
 4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758234743890
-# hash = 9d5f9733734e23000ab61c5432ce4501
-# text = Nuku it dituu kuchi.
-# text[spa] = Vine en mula.
-# sent_id = alimg:660:437
-# tagged = true
-# text[orig] = Nuku it dituu kuchi.
-# alimg = Vine en mula.
-# finished = Yes
-1	Nuku	nuku	ADP	_	_	2	case	_	Gloss=con|Trad=con
-2	it	_	NOUN	_	_	4	dep	_	Trad=animal
-3	dituu	_	VERB	_	VerbForm=Stat	2	advmod	_	Trad=fuerte
-4	kuchi	_	NOUN	_	_	0	root	_	SpaceAfter=No|Trad=marrano
-5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758234799996
 # hash = ea7364136e0772130fc9bb7244839491
 # text = Kutu nuku ñonguku jidinday.
@@ -8696,24 +8136,6 @@
 1	Nuku	nuku	ADP	_	_	2	case	_	Gloss=con|Trad=con
 2	kuchis	chi	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Intr|VerbForm=Fin	0	root	_	Gloss=CPL-venir-3.MSC|SpaceAfter=No|Trad=vino
 3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1761000541106
-# hash = d9e1321eab1b0dee62a1f0fb92651fa7
-# text = Juó nuku Pedro dama dijis ntiñu.
-# text[spa] = Juan y Pedro trabajan juntos.
-# sent_id = alimg:670:447
-# tagged = false
-# text[orig] = Juó nuku Pedro dama dijis ntiñu.
-# alimg = Juan y Pedro trabajan juntos.
-# finished = Yes
-1	Juó	_	PROPN	_	_	3	conj	_	Trad=Juan
-2	nuku	nuku	ADP	_	_	3	cc	_	Gloss=con|Trad=con
-3	Pedro	_	PROPN	_	_	5	nsubj	_	Trad=Pedro
-4	dama	_	ADJ	_	_	5	advmod	_	Trad=igual|UPOS=Guessed
-5	dijis	_	VERB	_	_	0	root	_	_
-6	ntiñu	_	NOUN	_	_	5	obj	_	SpaceAfter=No|Trad=trabajo
-7	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758235044820
@@ -8824,23 +8246,6 @@
 4	no	no	ADP	_	_	5	case	_	Gloss=LOC|Trad=en
 5	baʼa	_	NOUN	_	_	2	obl	_	SpaceAfter=No|Trad=casa
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758235821557
-# hash = 0bfae1de03b6c73d3e33f2c5c95bd2f7
-# text = ¿Ñeʼe ti kando chidad?
-# text[spa] = ¿De dónde salió tu papá?
-# sent_id = alimg:681:454
-# tagged = false
-# text[orig] = ¿Ñe'e ti kando chidad?
-# alimg = ¿De dónde salió tu papá?
-# finished = Yes
-1	¿	¿	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Ñeʼe	ñeʼe	ADV	_	NounType=Relat	4	advmod	_	Gloss=base-POSS.3|Trad=de.él
-3	ti	_	ADV	_	_	4	advmod	_	Trad=ese
-4	kando	_	VERB	_	_	0	root	_	_
-5	chidad	_	NOUN	_	_	4	nsubj	_	Gloss=papá-POSS.2SG|SpaceAfter=No|Trad=tu.papá
-6	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758235858821
@@ -9237,21 +8642,6 @@
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = amazel21
-# timestamp = 1750964595068
-# text = Yeabean yaku kané dutit.
-# text[spa] = Esta muy caro el huevo.
-# sent_id = ejemplos:0226
-# tagged = false
-# text[orig] = Yeabean yaku kané dutit.
-# author = lucy
-# finished = Yes
-1	Yeabean	_	ADV	_	_	2	advmod	_	Trad=.muy,mucho
-2	yaku	_	ADV	_	_	0	root	_	Trad=alto
-3	kané	_	VERB	_	_	2	cop	_	Gloss=?-estar-?|Trad=está
-4	dutit	_	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Trad=huevo
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = amazel21
 # finished = Yes
 # text = Yeabean rampa tï iña kó.
 # text[spa] = Está calvo ese señor.
@@ -9371,21 +8761,6 @@
 3	zangáta	_	NOUN	_	_	2	obj	_	Trad=lobo
 4	jikioʼö	_	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Trad=bosque
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = amazel21
-# finished = Yes
-# text = Kanú ama sankubi bakú.
-# text[spa] = Está un borracho en la carcel.
-# sent_id = ejemplos:0277
-# tagged = true
-# text[orig] = Kanú ama sankubi bakú.
-# timestamp = 1750619765158
-# author = lucy
-1	Kanú	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-cargar-?|Trad=cargar
-2	ama	_	NUM	_	NumType=Card	3	nummod	_	Trad=uno
-3	sankubi	_	NOUN	_	_	1	obj	_	Trad=borracho
-4	bakú	_	NOUN	_	_	1	obj	_	SpaceAfter=No|Trad=cárcel
-5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = amazel21
 # finished = Yes
@@ -9518,22 +8893,6 @@
 3	ntu	_	NOUN	_	_	2	obj	_	Trad=atole
 4	ku	_	DET	_	_	3	nsubj	_	SpaceAfter=No|Trad=este
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = amazel21
-# timestamp = 1750632673465
-# text = Uu neé cheʼe ama yadnuni.
-# text[spa] = Yo quiero comer un pato.
-# sent_id = ejemplos:0326
-# tagged = true
-# text[orig] = Uu neé cheʼe ama yadnuni.
-# author = lucy
-# finished = Yes
-1	Uu	uu	PRON	_	PronType=Prs	3	nsubj	_	Gloss=1SG|Trad=yo
-2	neé	_	VERB	_	VerbForm=Fin	3	aux	_	Gloss=?-querer-?|Trad=quiere
-3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-comer-1SG|Trad=como
-4	ama	_	NUM	_	NumType=Card	5	nummod	_	Trad=uno
-5	yadnuni	_	NOUN	_	_	3	obj	_	SpaceAfter=No|Trad=pato
-6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = amazel21
 # timestamp = 1750633534617
@@ -10201,21 +9560,6 @@
 4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1750633983078
-# text = Yeabean ñaʼa kané dínu.
-# text[spa] = Mi hermano esta muy lejos.
-# sent_id = ejemplos:0241
-# tagged = false
-# text[orig] = Yeabean ñaʼa kané dínu.
-# author = lucy
-# finished = Yes
-1	Yeabean	_	ADP	_	_	2	advmod	_	Trad=.muy,mucho
-2	ñaʼa	_	ADV	_	_	3	advmod	_	Trad=lejos
-3	kané	_	VERB	_	_	0	root	_	Gloss=?-estar-?|Trad=está
-4	dínu	_	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Trad=hermano
-5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1750692808174
 # text = Chiñá kiana ñeʼed.
 # text[spa] = Se ensució tu camisa.
@@ -10321,22 +9665,6 @@
 3	ñoʼó	_	NOUN	_	_	2	nsubj	_	Trad=terreno
 4	ndá	_	ADJ	_	_	3	amod	_	Trad=bueno
 5	muʼu	_	ADV	_	_	2	obl	_	SpaceAfter=No|Trad=aquí
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1750952629380
-# text = Bea bíku no ñó kó.
-# text[spa] = hay fiesta en ese pueblo.
-# sent_id = ejemplos:0251
-# tagged = true
-# text[orig] = Bea bíku no ñó kó.
-# author = lucy
-# finished = Yes
-1	Bea	_	VERB	_	_	0	root	_	Gloss=?-existir-3SG|Trad=hay
-2	bíku	_	NOUN	_	_	1	nsubj	_	Trad=fiesta
-3	no	no	ADP	_	_	4	case	_	Gloss=LOC|Trad=en
-4	ñó	_	NOUN	_	_	2	obl	_	Trad=pueblo
-5	kó	_	DET	_	_	4	det	_	SpaceAfter=No|Trad=ese
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
@@ -10462,22 +9790,6 @@
 5	chíka	_	VERB	_	VerbForm=Fin	3	acl	_	Gloss=?-cortar-?|Trad=corté
 6	moneatea	_	ADV	_	_	5	advmod	_	SpaceAfter=No|Trad=semana.pasada
 7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = Mliliaherrera
-# finished = Yes
-# text = Neʼe cheʼe tiba ñeʼe dutit.
-# text[spa] = Quiero comer enpanada de huevo.
-# sent_id = ejemplos:0289
-# tagged = true
-# text[orig] = Neʼe cheʼe tiba ñeʼe dutit.
-# timestamp = 1750625486840
-# author = lucy
-1	Neʼe	_	VERB	_	VerbForm=Fin	2	aux	_	Gloss=?-querer-?|Trad=quiere
-2	cheʼe	cheʼe	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-comer-1SG|Trad=como
-3	tiba	_	NOUN	_	_	2	obj	_	Trad=empanada
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	3	nmod:poss	_	Gloss=base-POSS.3SG|Trad=de.él
-5	dutit	_	NOUN	_	_	4	nmod	_	SpaceAfter=No|Trad=huevo
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = Mliliaherrera
 # finished = Yes
@@ -10732,22 +10044,6 @@
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = Mliliaherrera
-# timestamp = 1750629474858
-# text = Yeabean yáʼa nochi jijéa nùni.
-# text[spa] = Hay mucha húmedad donde se tira el agua.
-# sent_id = ejemplos:0307
-# tagged = false
-# text[orig] = Yeabean yáʼa nochi jijéa nùni.
-# author = lucy
-# finished = Yes
-1	Yeabean	_	ADV	_	_	2	advmod	_	Trad=.muy,mucho
-2	yáʼa	_	ADJ	_	_	0	root	_	Trad=húmedo
-3	nochi	_	ADV	_	AdvType=Rel	4	advmod	_	Trad=donde
-4	jijéa	_	VERB	_	VerbForm=Fin	2	advcl	_	Gloss=?-tirarse-?|Trad=se.tira
-5	nùni	_	NOUN	_	_	4	obj	_	SpaceAfter=No|Trad=agua
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = Mliliaherrera
 # finished = Yes
 # text = Ú yaʼa nukud.
 # text[spa] = Yo te amo.
@@ -10853,22 +10149,6 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1750629491224
-# text = Chinó ama ñò no koʼo.
-# text[spa] = Me entró una espina en el pie.
-# sent_id = ejemplos:0253
-# tagged = true
-# text[orig] = Chinó ama ñò no koʼo.
-# author = lucy
-# finished = Yes
-1	Chinó	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-entrar-?|Trad=entró
-2	ama	_	NUM	_	NumType=Card	3	nummod	_	Trad=uno
-3	ñò	_	NOUN	_	_	1	nsubj	_	Trad=espina
-4	no	no	ADP	_	_	5	case	_	Gloss=LOC|Trad=en
-5	koʼo	_	NOUN	_	_	1	obl	_	SpaceAfter=No|Trad=pie
-6	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773366010486
 # text = A ö ndó.
 # text[spa] = Llegué a media noche.
@@ -10896,21 +10176,6 @@
 3	dami	_	NOUN	_	_	2	nsubj	_	Trad=.caparazón,espalda
 4	chiblaʼa	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=armadillo
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1750630142516
-# text = Chida neʼe cheʼey raabu.
-# text[spa] = Mi papá quiere comer mostaza.
-# sent_id = ejemplos:0265
-# tagged = true
-# text[orig] = Chida neʼe cheʼey raabu.
-# author = lucy
-# finished = Yes
-1	Chida	_	NOUN	_	_	3	nsubj	_	Trad=mi.papá
-2	neʼe	_	AUX	_	VerbForm=Fin	3	aux	_	Gloss=?-querer-?|Trad=quiere
-3	cheʼey	cheʼe	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-comer-3SG.HUM|Trad=come
-4	raabu	_	NOUN	_	_	3	obj	_	SpaceAfter=No|Trad=mostaza
-5	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1750631231732
@@ -10976,21 +10241,6 @@
 2	chéatea	_	ADJ	_	VerbForm=Stat	0	root	_	Trad=grande
 3	yába	_	NOUN	_	_	2	nsubj	_	Ambiguous=Yes|Trad=memela,piedra.grande,rocas.planas
 4	kó	_	DET	_	_	3	det	_	SpaceAfter=No|Trad=ese
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1750631991511
-# text = Kueten kane ama yába.
-# text[spa] = En el campo esta una piedra grande.
-# sent_id = ejemplos:0314
-# tagged = false
-# text[orig] = Kueten kane ama yába.
-# author = lucy
-# finished = Yes
-1	Kueten	_	NOUN	_	_	2	obl	_	Trad=campo
-2	kane	_	VERB	_	_	0	root	_	Gloss=?-estar-?|Trad=está
-3	ama	_	NUM	_	NumType=Card	4	det	_	Trad=uno
-4	yába	_	NOUN	_	_	2	nsubj	_	Ambiguous=Yes|SpaceAfter=No|Trad=memela,piedra.grande,rocas.planas
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
@@ -11143,22 +10393,6 @@
 4	nichi	_	VERB	_	VerbForm=Fin	2	advcl	_	Gloss=?-ver-1SG|Trad=vi
 5	chaku	_	NOUN	_	_	4	obj	_	SpaceAfter=No|Trad=mi.mamá
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = Mliliaherrera
-# timestamp = 1750631427219
-# text = Ted ama yuku kuí ñuu.
-# text[spa] = Dame un tenate para hechar mazorca.
-# sent_id = ejemplos:0345
-# tagged = true
-# text[orig] = Ted ama yuku kuí ñuu.
-# author = lucy
-# finished = Yes
-1	Ted	_	VERB	_	_	0	root	_	Gloss=?-dar-2SG|Trad=dame
-2	ama	_	NUM	_	NumType=Card	3	nummod	_	Trad=uno
-3	yuku	_	NOUN	_	_	1	obj	_	Trad=tenate.para.cargar
-4	kuí	_	VERB	_	_	3	obl	_	Gloss=?-echar-?|Trad=echar
-5	ñuu	_	NOUN	_	_	4	obj	_	SpaceAfter=No|Trad=mazorca
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = Mliliaherrera
 # timestamp = 1750632318118
@@ -11359,23 +10593,6 @@
 3	kuete	_	NOUN	_	_	2	nsubj	_	Trad=campo
 4	ñëʼe	ñeʼe	NOUN	_	NounType=Relat|Typo=Yes	3	nmod:poss	_	Gloss=base-POSS.1SG|SpaceAfter=No|Trad=de.mí
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = Mliliaherrera
-# timestamp = 1750964808743
-# text = Diiya bea ama yúduu ñee ña.
-# text[spa] = Mi tio tiene un caballo.
-# sent_id = ejemplos:0359
-# tagged = false
-# text[orig] = Diiya bea ama yúduu ñee ña.
-# author = lucy
-# finished = Yes
-1	Diiya	_	NOUN	_	Typo=Yes	2	dislocated	_	Trad=tío
-2	bea	_	VERB	_	_	0	root	_	Gloss=?-existir-3SG|Trad=hay
-3	ama	_	NUM	_	NumType=Card	4	nummod	_	Trad=uno
-4	yúduu	_	NOUN	_	_	2	nsubj	_	Trad=caballo
-5	ñee	ñeʼe	NOUN	_	NounType=Relat|Typo=Yes	4	nmod:poss	_	Gloss=base-POSS.3SG|Trad=de.él
-6	ña	_	NOUN	_	_	5	goeswith	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759344908878
@@ -12001,23 +11218,6 @@
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = Mliliaherrera
-# timestamp = 1750958317792
-# text = Ama tadii neʼe cheeta ama beâ.
-# text[spa] = Una niña quiere comer una naranja.
-# sent_id = ejemplos:0031
-# tagged = true
-# text[orig] = Ama tadii neʼe cheeta ama beâ.
-# author = lilia
-# finished = Yes
-1	Ama	_	NUM	_	NumType=Card	2	nummod	_	Trad=uno
-2	tadii	_	NOUN	_	_	4	nsubj	_	Trad=niña
-3	neʼe	_	AUX	_	VerbForm=Fin	4	aux	_	Gloss=?-querer-?|Trad=quiere
-4	cheeta	cheʼe	VERB	_	Gender=Fem|Mood=Pot|Person=3|Subcat=Tran|Typo=Yes|VerbForm=Fin	0	root	_	Gloss=POT-comer-3.FEM|Normal=cheʼeta|Trad=come
-5	ama	_	NUM	_	NumType=Card	6	nummod	_	Trad=uno
-6	beâ	_	NOUN	_	_	4	obj	_	SpaceAfter=No|Trad=naranja
-7	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = Mliliaherrera
 # timestamp = 1750957298007
 # text = Un bea ñoʼö beanete ñeʼë.
 # text[spa] = Yo tengo árboles de limones.
@@ -12032,23 +11232,6 @@
 4	beanete	_	NOUN	_	_	3	appos	_	Trad=limón
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	2	nmod:poss	_	Gloss=base-POSS.1SG|SpaceAfter=No|Trad=de.mí
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = Mliliaherrera
-# timestamp = 1750961444265
-# text = To bed inuu moo ibu ndios.
-# text[spa] = Es muy milagroso nuestro dios.
-# sent_id = ejemplos:0033
-# tagged = false
-# text[orig] = To bed inuu moo ibu ndios.
-# author = lilia
-# finished = Yes
-1	To	_	ADV	_	_	2	advmod	_	Trad=mucho|UPOS=Guessed
-2	bed	_	ADJ	_	_	0	root	_	_
-3	inuu	_	ADJ	_	_	2	goeswith	_	Trad=caliente|UPOS=Guessed
-4	moo	_	NOUN	_	_	2	nsubj	_	Trad=abajo|UPOS=Guessed
-5	ibu	_	NOUN	_	_	4	nmod:poss	_	_
-6	ndios	_	NOUN	_	_	5	compound	_	SpaceAfter=No|Trad=dios
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = Mliliaherrera
 # timestamp = 1750956943598
@@ -12144,21 +11327,6 @@
 9	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759273962437
-# text = Yaa beaku yada ñëta.
-# text[spa] = Está muy elegante el vestido de ella.
-# sent_id = ejemplos:0044
-# tagged = true
-# text[orig] = Yaa beaku yada ñëta.
-# author = lilia
-# finished = Yes
-1	Yaa	_	VERB	_	_	2	advmod	_	Trad=está|UPOS=Guessed
-2	beaku	_	ADJ	_	_	0	root	_	Trad=elegante|UPOS=Guessed
-3	yada	_	NOUN	_	_	2	nsubj	_	Trad=vestido
-4	ñëta	ñeʼe	NOUN	_	NounType=Relat	3	nmod:poss	_	Gloss=base-POSS.3.FEM|SpaceAfter=No|Trad=de.ella
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759274065068
 # text = Iñ ñoʼon jeʼëñ jinikuy beanu Jibaku.
 # text[spa] = La gente del pueblo va a vender epazote a Cuicatlán.
@@ -12203,20 +11371,6 @@
 2	jínus	kunu	VERB	_	Aspect=Prog|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=PROG-sembrar-3.MSC|Trad=siembra
 3	nata	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=maíz
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759274363679
-# text = Dínu yaʼa bichas.
-# text[spa] = Mi hermano esta muy gordo.
-# sent_id = ejemplos:0049
-# tagged = true
-# text[orig] = Dínu yaʼa bichas.
-# author = lilia
-# finished = Yes
-1	Dínu	_	NOUN	_	_	3	nsubj	_	Trad=hermano
-2	yaʼa	_	NOUN	_	_	3	advmod	_	Trad=dolor
-3	bichas	_	ADJ	_	_	0	root	_	SpaceAfter=No|Trad=está.gordo|UPOS=Guessed
-4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759274401329
@@ -12932,25 +12086,6 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759278407447
-# text = Cheʼë jibaku chich tika gua noo no biku.
-# text[spa] = Fui a Cuicatlán por eso no vine a la fiesta.
-# sent_id = ejemplos:0098
-# tagged = false
-# text[orig] = Cheʼë jibaku chich tika gua noo no biku.
-# author = lilia
-# finished = Yes
-1	Cheʼë	kaʼan	VERB	_	VerbForm=Fin	0	root	_	Gloss=CPL-ir-1SG|Trad=fui
-2	jibaku	_	PROPN	_	Typo=Yes	1	obl	_	Gloss=LOC|Normal=Jibaku|Trad=Cuicatlán
-3	chich	_	SCONJ	_	_	6	mark	_	_
-4	tika	_	NOUN	_	_	6	advmod	_	Trad=ropa
-5	gua	_	ADV	_	_	6	advmod	_	Gloss=NEG|Trad=no
-6	noo	no	VERB	_	Typo=Yes	1	advcl	_	Gloss=LOC|Normal=no|Trad=en
-7	no	no	ADP	_	_	8	case	_	Gloss=LOC|Trad=en
-8	biku	_	NOUN	_	Typo=Yes	6	obl	_	Normal=bíku|SpaceAfter=No|Trad=fiesta
-9	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759278445321
 # text = Chíchi jinuu yada ñeʼë.
 # text[spa] = Me aprieta mi vestido.
@@ -13097,23 +12232,6 @@
 3	chiibat	_	NOUN	_	_	1	obj	_	Trad=telaraña
 4	kuete	_	NOUN	_	_	1	obl	_	SpaceAfter=No|Trad=campo
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759278790386
-# text = Too bea chiíbat noo baʼa koo.
-# text[spa] = Hay mucha telaraña en esa casa.
-# sent_id = ejemplos:0109
-# tagged = true
-# text[orig] = Too bea chiíbat noo baʼa koo.
-# author = lilia
-# finished = Yes
-1	Too	_	ADJ	_	_	2	advmod	_	Trad=mucho|UPOS=Guessed
-2	bea	_	VERB	_	_	0	root	_	Gloss=?-existir-3|Trad=hay
-3	chiíbat	_	NOUN	_	_	2	nsubj	_	Trad=telaraña
-4	noo	no	ADP	_	Typo=Yes	5	case	_	Gloss=LOC|Normal=no|Trad=en
-5	baʼa	_	NOUN	_	_	2	obl	_	Trad=casa
-6	koo	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	5	det	_	Gloss=POT-ir-1SG|Normal=koʼö|SpaceAfter=No|Trad=iré
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759278807524
@@ -13481,21 +12599,6 @@
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759280610494
-# text = Nee chibatu ñee beat.
-# text[spa] = Tengo muchos chivos.
-# sent_id = ejemplos:0136
-# tagged = true
-# text[orig] = Nee chibatu ñee beat.
-# author = lilia
-# finished = Yes
-1	Nee	_	ADJ	_	VerbForm=Fin	2	amod	_	Gloss=?-querer-?|Trad=quería
-2	chibatu	_	NOUN	_	_	4	nsubj	_	Trad=chivo
-3	ñee	ñeʼe	NOUN	_	NounType=Relat|Typo=Yes	2	nmod:poss	_	Gloss=base-POSS.3|Normal=ñeʼe|Trad=de.él
-4	beat	_	VERB	_	_	0	root	_	Gloss=?-existir-3.AML|SpaceAfter=No|Trad=hay
-5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759280623724
 # text = Chichi chiya.
 # text[spa] = Se quemó mi lengua.
@@ -13756,36 +12859,6 @@
 2	neés	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-querer-3.MSC|Trad=quiere
 3	uu	uu	PRON	_	PronType=Prs|Typo=Yes	2	obj	_	Gloss=1SG|Normal=ú|SpaceAfter=No|Trad=yo
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759281577151
-# text = Jinubi naa jingö toch jee dankubi.
-# text[spa] = Se pone buena la milpa cuando llovizna.
-# sent_id = ejemplos:0155
-# tagged = false
-# text[orig] = Jinubi naa jingö toch jee dankubi.
-# author = lilia
-# finished = Yes
-1	Jinubi	_	VERB	_	_	0	root	_	_
-2	naa	_	NOUN	_	_	1	advmod	_	Trad=oro
-3	jingö	_	NOUN	_	_	1	nsubj	_	Trad=milpa
-4	toch	tochi	SCONJ	_	Typo=Yes	5	mark	_	Gloss=cuando|Normal=tochi|Trad=cuando
-5	jee	cheʼe	VERB	_	VerbForm=Fin	1	advcl	_	Gloss=?-comer-1SG|Trad=como
-6	dankubi	_	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Trad=llovizna
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759281593988
-# text = Danti nëe.
-# text[spa] = Tengo flojera hablar.
-# sent_id = ejemplos:0156
-# tagged = true
-# text[orig] = Danti nëe.
-# author = lilia
-# finished = Yes
-1	Danti	_	NOUN	_	_	2	advmod	_	Trad=flojera|UPOS=Guessed
-2	nëe	_	VERB	_	Typo=Yes|VerbForm=Fin	0	root	_	Gloss=?-querer-1SG|Normal=neʼë|SpaceAfter=No|Trad=quiero
-3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759281608441
@@ -14646,23 +13719,6 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759531018220
-# text = Noo tinu ñaa ñeʼe jobe ku.
-# text[spa] = _.
-# sent_id = ejemplos:0378
-# tagged = false
-# text[orig] = Noo tinu ñaa ñeʼe jobe ku.
-# author = lilia
-# finished = Yes
-1	Noo	no	VERB	_	Typo=Yes	0	root	_	Gloss=LOC|Normal=no|Trad=en
-2	tinu	_	NOUN	_	_	1	obj	_	_
-3	ñaa	_	ADJ	_	_	2	amod	_	Trad=vela
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	2	nmod:poss	_	Gloss=base-POSS.3|Trad=de.él
-5	jobe	_	NOUN	_	_	1	advmod	_	Trad=día
-6	ku	_	DET	_	_	5	det	_	SpaceAfter=No|Trad=este
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1772751869021
 # text = Gua aku chi tika kuenu.
 # text[spa] = _.
@@ -14983,20 +14039,6 @@
 1	Joʼo	_	VERB	_	_	0	root	_	Gloss=?-picar-?|Trad=pica
 2	dasi	_	ADV	_	_	1	advmod	_	_
 3	chitiy	_	NOUN	_	_	1	nsubj	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1772846200094
-# text = Tuu chiya lï.
-# text[spa] = _.
-# sent_id = ejemplos:0447
-# tagged = true
-# text[orig] = Tuu chiya lï.
-# author = lilia
-# finished = Yes
-1	Tuu	_	ADJ	_	_	0	root	_	Trad=piedra
-2	chiya	_	NOUN	_	_	1	nsubj	_	Trad=lengua
-3	lï	_	NOUN	_	Number=Sing|VerbForm=Stat	2	nmod	_	SpaceAfter=No|Trad=pequeño
 4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
@@ -15392,22 +14434,6 @@
 8	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759187556420
-# text = Job jobe jeʼé jidí ntiñu.
-# text[spa] = Todos los dias voy a trabajar.
-# sent_id = ejemplos:0527
-# tagged = true
-# text[orig] = Job jobe jeʼé jidí ntiñu.
-# author = lucy
-# finished = Yes
-1	Job	_	NOUN	_	_	2	nmod	_	Trad=día
-2	jobe	_	NOUN	_	_	3	advmod	_	Trad=día
-3	jeʼé	kaʼan	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ir-1SG|Trad=voy
-4	jidí	_	VERB	_	VerbForm=Fin	3	xcomp	_	Gloss=?-hacer-1SG|Trad=hacer
-5	ntiñu	_	NOUN	_	_	4	obj	_	SpaceAfter=No|Trad=trabajo
-6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759187590514
 # text = Dinán ntú kúʼuu.
 # text[spa] = Preparen atole para tomar.
@@ -15616,22 +14642,6 @@
 3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759188171554
-# text = Chinó ama ñò no koʼo.
-# text[spa] = Me entró una espina en el pie.
-# sent_id = ejemplos:0542
-# tagged = true
-# text[orig] = Chinó ama ñò no koʼo.
-# author = lucy
-# finished = Yes
-1	Chinó	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-entrar-?|Trad=entró
-2	ama	_	NUM	_	NumType=Card	3	nummod	_	Trad=uno
-3	ñò	_	NOUN	_	_	1	nsubj	_	Trad=espina
-4	no	no	ADP	_	_	5	case	_	Gloss=LOC|Trad=en
-5	koʼo	_	NOUN	_	_	3	obl	_	SpaceAfter=No|Trad=pie
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759188214593
 # text = Ndatan jeʼëta jinguata ñóngukuu.
 # text[spa] = Las mujeres van a traer barro.
@@ -15726,20 +14736,6 @@
 4	bílu	_	NOUN	_	_	2	nsubj	_	Trad=gato
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	4	nmod:poss	_	Gloss=base-POSS.3|SpaceAfter=No|Trad=de.él
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759188713504
-# text = A ö ndó.
-# text[spa] = Llegué a media noche.
-# sent_id = ejemplos:0549
-# tagged = false
-# text[orig] = A ö ndó.
-# author = lucy
-# finished = Yes
-1	A	a	ADV	_	_	3	advmod	_	Gloss=QST
-2	ö	_	NOUN	_	_	3	advmod	_	_
-3	ndó	_	VERB	_	_	0	root	_	Gloss=?-venir-?|SpaceAfter=No|Trad=vino
-4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759188732509
@@ -15923,23 +14919,6 @@
 7	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759190265215
-# text = Saíkuu jeʼet yuta ñeʼe iti nì.
-# text[spa] = El buitre come la carne de los animales muertos.
-# sent_id = ejemplos:0562
-# tagged = true
-# text[orig] = Saíkuu jeʼet yuta ñeʼe iti nì.
-# author = lucy
-# finished = Yes
-1	Saíkuu	_	NOUN	_	_	2	nsubj	_	Trad=buitre
-2	jeʼet	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=PROG-comer-3.AML|Trad=come
-3	yuta	_	NOUN	_	_	2	obj	_	Trad=carne
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	5	nmod:poss	_	Gloss=base-POSS.3|Trad=de.él
-5	iti	_	NOUN	_	_	2	obl	_	Trad=animal
-6	nì	_	ADJ	_	_	5	amod	_	SpaceAfter=No|Trad=muerto|UPOS=Guessed
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759190312106
 # text = Tochi gë kúbi jiknó sakuiti.
 # text[spa] = Cuando llueve salen los escarabajos.
@@ -15969,20 +14948,6 @@
 3	zangáta	_	NOUN	_	_	2	nsubj	_	Trad=lobo
 4	jikioʼö	_	NOUN	_	_	2	obl	_	SpaceAfter=No|Trad=bosque
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759190352381
-# text = Sangoʼoo jeʼet jingö.
-# text[spa] = La arriera se come la milpa.
-# sent_id = ejemplos:0565
-# tagged = true
-# text[orig] = Sangoʼoo jeʼet jingö.
-# author = lucy
-# finished = Yes
-1	Sangoʼoo	_	NOUN	_	_	2	nsubj	_	Trad=arriera
-2	jeʼet	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=PROG-comer-3.AML|Trad=come
-3	jingö	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=milpa
-4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759190381638
@@ -16118,21 +15083,6 @@
 3	tamoʼo	_	VERB	_	_	2	xcomp	_	Gloss=?-abrazar-?|Trad=abrazar
 4	dí	dí	PRON	_	PronType=Prs	3	obj	_	Gloss=2SG|SpaceAfter=No|Trad=tú
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759190848476
-# text = Tecolote yaʼa kaba át.
-# text[spa] = El tecolote grita muy feo.
-# sent_id = ejemplos:0575
-# tagged = true
-# text[orig] = Tecolote yaʼa kaba át.
-# author = lucy
-# finished = Yes
-1	Tecolote	_	NOUN	_	_	4	nsubj	_	Trad=tecolote
-2	yaʼa	_	NOUN	_	_	3	advmod	_	Trad=dolor
-3	kaba	_	ADJ	_	_	4	advmod	_	Trad=feo|UPOS=Guessed
-4	át	_	VERB	_	_	0	root	_	Gloss=?-gritar-?|SpaceAfter=No|Trad=grita
-5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759190881963
@@ -16333,20 +15283,6 @@
 4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759191748438
-# text = Tuʼu cheʼet kulantro.
-# text[spa] = El pollo se comio el cilantro.
-# sent_id = ejemplos:0589
-# tagged = true
-# text[orig] = Tuʼu cheʼet kulantro.
-# author = lucy
-# finished = Yes
-1	Tuʼu	_	NOUN	_	_	2	nsubj	_	Trad=pollo
-2	cheʼet	cheʼe	VERB	_	Animacy=Aml|Mood=Pot|Person=3|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=POT-comer-3.AML|Trad=comió
-3	kulantro	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=cilantro
-4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759191774871
 # text = Chiná tumi ñeʼe.
 # text[spa] = Se perdio mi dinero.
@@ -16433,22 +15369,6 @@
 2	üñ	_	VERB	_	_	0	root	_	Gloss=?-rajar-?|Trad=raja
 3	noʼo	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=leña
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759192292551
-# text = Yeabean yáʼa nochi jijéa nùni.
-# text[spa] = Hay mucha húmedad donde se tira el agua.
-# sent_id = ejemplos:0596
-# tagged = true
-# text[orig] = Yeabean yáʼa nochi jijéa nùni.
-# author = lucy
-# finished = Yes
-1	Yeabean	_	ADV	_	_	2	advmod	_	Trad=.muy,mucho
-2	yáʼa	_	ADJ	_	_	0	root	_	Trad=húmedo|UPOS=Guessed
-3	nochi	_	ADV	_	AdvType=Rel	4	mark	_	Trad=donde
-4	jijéa	_	VERB	_	VerbForm=Fin	2	advcl	_	Gloss=?-tirarse-?|Trad=se.tira
-5	nùni	_	NOUN	_	_	4	obj	_	SpaceAfter=No|Trad=agua
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759192318255
@@ -16939,38 +15859,6 @@
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759193769500
-# text = Mun gua nee yati bet.
-# text[spa] = Aquí no hay muchos chindetes.
-# sent_id = ejemplos:0629
-# tagged = false
-# text[orig] = Mun gua nee yati bet.
-# author = lucy
-# finished = Yes
-1	Mun	_	ADV	_	_	5	advmod	_	Trad=aquí
-2	gua	_	ADV	_	_	5	advmod	_	Gloss=NEG|Trad=no
-3	nee	_	ADJ	_	VerbForm=Fin	4	amod	_	Gloss=?-querer-?|Trad=quería
-4	yati	_	NOUN	_	_	5	nsubj	_	Trad=chindete
-5	bet	_	VERB	_	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759193844334
-# text = Yaʼa yáti chi genee yuntu.
-# text[spa] = Está muy simple esta comida.
-# sent_id = ejemplos:0630
-# tagged = false
-# text[orig] = Yaʼa yáti chi genee yuntu.
-# author = lucy
-# finished = Yes
-1	Yaʼa	_	NOUN	_	_	2	advmod	_	Trad=dolor
-2	yáti	_	ADJ	_	_	0	root	_	Trad=simple|UPOS=Guessed
-3	chi	chi	SCONJ	_	_	4	case	_	Gloss=COMPL|Trad=que
-4	genee	_	VERB	_	_	2	acl	_	_
-5	yuntu	_	NOUN	_	_	4	obj	_	SpaceAfter=No|Trad=tortilla
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759193874500
 # text = Kuninun bea yatneachea.
 # text[spa] = Aya arriba hay escoba de vara.
@@ -17280,22 +16168,6 @@
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759195507073
-# text = Ama yuna yeabean jeét yúdii.
-# text[spa] = Un zorro come mucho elote.
-# sent_id = ejemplos:0652
-# tagged = true
-# text[orig] = Ama yuna yeabean jeét yúdii.
-# author = lucy
-# finished = Yes
-1	Ama	_	NUM	_	NumType=Card	2	nummod	_	Trad=uno
-2	yuna	_	NOUN	_	_	4	nsubj	_	Trad=zorro
-3	yeabean	_	ADV	_	_	4	advmod	_	Trad=.muy,mucho
-4	jeét	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=PROG-comer-3.AML|Trad=come
-5	yúdii	_	NOUN	_	_	4	obj	_	SpaceAfter=No|Trad=elote
-6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759195556136
 # text = ¿A nichid yúni nabaku?
 # text[spa] = ¿Viste el camino de mi casa?
@@ -17597,38 +16469,6 @@
 6	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	7	nmod:poss	_	Gloss=base-POSS.3|Trad=de.él
 7	chikuinchákuu	_	NOUN	_	_	5	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759265851996
-# text = Chaku jiyuchiy nínu no chéa.
-# text[spa] = Mi mama tuesta el maíz en el comal.
-# sent_id = ejemplos:0676
-# tagged = false
-# text[orig] = chaku jiyuchiy nínu no chéa.
-# author = lucy
-# finished = Yes
-1	Chaku	_	NOUN	_	_	2	nsubj	_	Trad=mi.mamá
-2	jiyuchiy	_	VERB	_	_	0	root	_	_
-3	nínu	nínu	NOUN	_	_	2	obj	_	Trad=maíz
-4	no	no	ADP	_	_	5	case	_	Gloss=LOC|Trad=en
-5	chéa	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=comal
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759265895670
-# text = Dúdi jiyuchiy it-lankue no chea.
-# text[spa] = Mi tía tuesta camarones en el comal.
-# sent_id = ejemplos:0677
-# tagged = false
-# text[orig] = Dúdi jiyuchiy it-lankue no chea.
-# author = lucy
-# finished = Yes
-1	Dúdi	_	NOUN	_	_	2	nsubj	_	Trad=tía
-2	jiyuchiy	_	VERB	_	_	0	root	_	_
-3	it-lankue	_	NOUN	_	_	2	obj	_	_
-4	no	no	ADP	_	_	5	case	_	Gloss=LOC|Trad=en
-5	chea	_	NOUN	_	PronType=Int	2	obl	_	SpaceAfter=No|Trad=cuál
-6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759265964563
@@ -18460,24 +17300,6 @@
 6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759272774197
-# text = Ama joben ama ñaña kuoʼoo kachikat jikioʼo.
-# text[spa] = Un día un león andaba en el bosque.
-# sent_id = ejemplos:0740
-# tagged = false
-# text[orig] = Ama joben ama ñaña kuoʼoo kachikat jikioʼo.
-# author = lucy
-# finished = Yes
-1	Ama	_	NUM	_	NumType=Card	2	nummod	_	Trad=uno
-2	joben	_	NOUN	_	_	6	advmod	_	_
-3	ama	_	NUM	_	NumType=Card	4	nummod	_	Trad=uno
-4	ñaña	_	NOUN	_	_	6	nsubj	_	Trad=león
-5	kuoʼoo	_	ADJ	_	_	4	amod	_	_
-6	kachikat	_	VERB	_	_	0	root	_	_
-7	jikioʼo	_	NOUN	_	_	6	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759272830671
 # text = Bea dítdanti ku ño-ínuu.
 # text[spa] = Hay correcaminos en tierra caliente.
@@ -18491,22 +17313,6 @@
 3	ku	_	ADP	_	_	4	case	_	Trad=este
 4	ño-ínuu	_	NOUN	_	_	1	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759272883329
-# text = Tíntu jitubiy iti ñeʼe remede.
-# text[spa] = La chuparrosa lo usan para remedios.
-# sent_id = ejemplos:0742
-# tagged = false
-# text[orig] = Tíntu jitubiy iti ñeʼe remede.
-# author = lucy
-# finished = Yes
-1	Tíntu	_	NOUN	_	_	2	obj	_	Trad=colibrí
-2	jitubiy	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ocupar-3.HUM|Trad=ocupan
-3	iti	_	NOUN	_	_	2	obj	_	Trad=animal
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	5	nmod:poss	_	Gloss=base-POSS.3|Trad=de.él
-5	remede	_	NOUN	_	_	2	obl	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759272918546
@@ -18525,23 +17331,6 @@
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759272972418
-# text = Lotee jeʼet yuta ñeʼe iti nïʼ.
-# text[spa] = El zopilote come carne de animales muertos.
-# sent_id = ejemplos:0744
-# tagged = false
-# text[orig] = Lotee jeʼet yuta ñeʼe iti nïʼ.
-# author = lucy
-# finished = Yes
-1	Lotee	_	NOUN	_	_	2	nsubj	_	_
-2	jeʼet	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=PROG-comer-3.AML|Trad=come
-3	yuta	_	NOUN	_	_	2	obj	_	Trad=carne
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	5	nmod:poss	_	Gloss=base-POSS.3|Trad=de.él
-5	iti	_	NOUN	_	_	2	obl	_	Trad=animal
-6	nïʼ	_	NOUN	_	_	5	amod	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759273034968
 # text = Ama ñaña kuoʼoo chinonút no ama tuubi.
 # text[spa] = Un león cayon en una trampa.
@@ -18558,22 +17347,6 @@
 6	ama	_	NUM	_	NumType=Card	7	nummod	_	Trad=uno
 7	tuubi	_	NOUN	_	_	4	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759273371592
-# text = Ama tiudi jinüt chi jeʼet.
-# text[spa] = Un ratón busca su comida.
-# sent_id = ejemplos:0746
-# tagged = false
-# text[orig] = Ama tiudi jinüt chi jeʼet.
-# author = lucy
-# finished = Yes
-1	Ama	_	NUM	_	NumType=Card	2	nummod	_	Trad=uno
-2	tiudi	_	NOUN	_	_	3	nsubj	_	Trad=ratón
-3	jinüt	_	VERB	_	_	0	root	_	_
-4	chi	chi	PRON	_	_	5	obj	_	Gloss=COMPL|Trad=que
-5	jeʼet	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	3	xcomp	_	Gloss=PROG-comer-3.AML|SpaceAfter=No|Trad=come
-6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759273543544
@@ -18633,23 +17406,6 @@
 2	dami	_	NOUN	_	_	1	nsubj	_	Trad=.caparazón,espalda
 3	chiblaʼa	_	NOUN	_	_	2	nmod	_	SpaceAfter=No|Trad=armadillo
 4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758579579374
-# text = Insu jinoʼon no skuela job jobe.
-# text[spa] = Nosotros vamos a la escuela todos los días.
-# sent_id = ejemplos:0784
-# tagged = false
-# text[orig] = Insu jinoʼon no skuela job jobe.
-# author = lucy
-# finished = Yes
-1	Insu	_	PRON	_	_	2	nsubj	_	_
-2	jinoʼon	_	VERB	_	_	0	root	_	_
-3	no	no	ADP	_	_	4	case	_	Gloss=LOC|Trad=en
-4	skuela	skuela	NOUN	_	_	2	obl	_	Trad=escuela
-5	job	_	NOUN	_	_	6	nmod	_	Trad=día
-6	jobe	_	NOUN	_	_	4	advmod	_	SpaceAfter=No|Trad=día
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758579404517
@@ -18878,24 +17634,6 @@
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758243017569
-# text = Silï biʼi kueʼes duchis nuku tatea sangaya.
-# text[spa] = Mi hermano se fue a jugar con los demas niños.
-# sent_id = ejemplos:0802
-# tagged = false
-# text[orig] = Silï biʼi kueʼes duchis nuku tatea sangaya.
-# author = lucy
-# finished = Yes
-1	Silï	_	NOUN	_	_	2	amod	_	Trad=niño
-2	biʼi	_	NOUN	_	_	3	nsubj	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
-3	kueʼes	_	VERB	_	_	0	root	_	Trad=se.fue
-4	duchis	_	VERB	_	_	3	csubj	_	_
-5	nuku	nuku	ADP	_	_	7	case	_	Gloss=con|Trad=con
-6	tatea	_	DET	_	_	7	det	_	_
-7	sangaya	_	NOUN	_	_	4	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758243085005
 # text = Tilï biʼi gua neʼeta chi kunú tïta.
 # text[spa] = Mi hermanita no quiere que la peinen.
@@ -19109,22 +17847,6 @@
 6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758244878027
-# text = Yeabean keadea nichi jinú yábaa.
-# text[spa] = Da mucha comezón donde se meten los aradores.
-# sent_id = ejemplos:0817
-# tagged = false
-# text[orig] = Yeabean keadea nichi jinú yábaa.
-# author = lucy
-# finished = Yes
-1	Yeabean	_	ADV	_	_	2	advmod	_	Trad=.muy,mucho
-2	keadea	_	NOUN	_	_	4	advmod	_	Trad=comezón
-3	nichi	_	ADV	_	_	4	advmod	_	_
-4	jinú	_	VERB	_	_	0	root	_	_
-5	yábaa	_	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Trad=arador
-6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758584678493
 # text = Yabi màà yaʼa yebea bea íʼñu.
 # text[spa] = Anoche había estrellas.
@@ -19175,22 +17897,6 @@
 8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758245121597
-# text = Gua yadi jiʼi nuni kú.
-# text[spa] = No está dulce el agua.
-# sent_id = ejemplos:0821
-# tagged = true
-# text[orig] = Gua yadi jiʼi nuni kú.
-# author = lucy
-# finished = Yes
-1	Gua	_	ADV	_	_	2	advmod	_	Gloss=NEG|Trad=no
-2	yadi	_	ADJ	_	_	3	amod	_	Trad=dulce|UPOS=Guessed
-3	jiʼi	_	VERB	_	_	0	root	_	Gloss=?-tomar-?|Trad=tomar
-4	nuni	_	NOUN	_	_	3	nsubj	_	Trad=agua
-5	kú	_	NOUN	_	_	4	det	_	SpaceAfter=No|Trad=campana
-6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758245185881
 # text = A mojobe kanó chi koʼö ñaʼä.
 # text[spa] = Hoy salgo para irme lejos.
@@ -19238,39 +17944,6 @@
 3	muʼu	_	ADV	_	_	4	advmod	_	Trad=aquí
 4	ñobákud	_	NOUN	_	_	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758245301599
-# text = ¿A taka chiba chita kú?
-# text[spa] = ¿Cuánto cuesta esta olla?
-# sent_id = ejemplos:0825
-# tagged = true
-# text[orig] = ¿A taka chiba chita kú?
-# author = lucy
-# finished = Yes
-1	¿	¿	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	A	a	PART	_	_	4	discourse	_	Gloss=QST
-3	taka	taka	ADV	_	_	4	advmod	_	Trad=cómo
-4	chiba	_	NOUN	_	_	0	root	_	Trad=precio
-5	chita	_	NOUN	_	_	4	nsubj	_	Trad=olla
-6	kú	_	NOUN	_	_	5	det	_	SpaceAfter=No|Trad=campana
-7	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758245346910
-# text = A déa jobe koʼod jibaku.
-# text[spa] = ¿Qué dia vas a ir a cuicatlán?
-# sent_id = ejemplos:0826
-# tagged = false
-# text[orig] = A déa jobe koʼod jibaku.
-# author = lucy
-# finished = Yes
-1	A	a	PART	_	_	4	discourse	_	Gloss=QST
-2	déa	_	ADV	_	_	3	advmod	_	_
-3	jobe	_	NOUN	_	_	4	advmod	_	Trad=día
-4	koʼod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	0	root	_	Gloss=POT-ir-2SG|Normal=koʼöd|Trad=irás
-5	jibaku	_	PROPN	_	Typo=Yes	4	obj	_	Gloss=LOC|Normal=Jibaku|SpaceAfter=No|Trad=Cuicatlán
-6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758584355275
@@ -19352,24 +18025,6 @@
 4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758245841316
-# text = Yana ñeʼë kanu dantut ama tö iʼyu.
-# text[spa] = Mi perro tiene amarrado un pedazo de mecate.
-# sent_id = ejemplos:0832
-# tagged = false
-# text[orig] = Yana ñeʼë kanu dantut ama tö iʼyu.
-# author = lucy
-# finished = Yes
-1	Yana	_	NOUN	_	_	3	nsubj	_	Trad=perro
-2	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	1	nmod:poss	_	Gloss=base-POSS.1SG|Trad=de.mí
-3	kanu	_	VERB	_	_	0	root	_	Trad=está
-4	dantut	_	NOUN	_	_	3	csubj	_	_
-5	ama	_	NUM	_	NumType=Card	6	nummod	_	Trad=uno
-6	tö	_	ADJ	_	_	7	amod	_	Trad=mucho|UPOS=Guessed
-7	iʼyu	_	NOUN	_	_	4	nmod	_	SpaceAfter=No|Trad=mecate
-8	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758245896779
 # text = Gua jiná nuku daya dúdi.
 # text[spa] = No me llevo con la hija de mi tía.
@@ -19398,23 +18053,6 @@
 2	nichi	_	VERB	_	VerbForm=Fin	1	xcomp	_	Gloss=?-ver-1SG|Trad=vi
 3	daynuni	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=ahijado(a)
 4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758245978088
-# text = Iku cheʼë ká jaba ñeʼe kántu.
-# text[spa] = Ayer fui a comprar los ingredientes para el caldo.
-# sent_id = ejemplos:0835
-# tagged = false
-# text[orig] = iku cheʼë ká jaba ñeʼe kántu.
-# author = lucy
-# finished = Yes
-1	Iku	íku	ADV	_	Typo=Yes	2	advmod	_	Normal=íku|Trad=ayer
-2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	0	root	_	Gloss=CPL-ir-1SG|Trad=fui
-3	ká	kua	VERB	_	VerbForm=Fin	2	xcomp	_	Gloss=CPL-comprar-1SG|Trad=comprar
-4	jaba	_	NOUN	_	_	3	obj	_	_
-5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	6	nmod:poss	_	Gloss=base-POSS.3|Trad=de.él
-6	kántu	_	NOUN	_	_	4	obl	_	SpaceAfter=No|Trad=caldo
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758246058740
@@ -19447,21 +18085,6 @@
 4	yata	_	NOUN	_	_	3	nmod	_	Trad=paloma
 5	ñoʼö	_	NOUN	_	_	3	nmod	_	SpaceAfter=No|Trad=pueblo
 6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758572514860
-# text = Tutóʼö chikut nichi dutit.
-# text[spa] = La gallina puso 10 huevos.
-# sent_id = ejemplos:0838
-# tagged = false
-# text[orig] = Tutóʼö chikut nichi dutit.
-# author = lucy
-# finished = Yes
-1	Tutóʼö	_	NOUN	_	_	2	nsubj	_	_
-2	chikut	_	VERB	_	_	0	root	_	_
-3	nichi	_	NUM	_	VerbForm=Fin	4	nummod	_	Gloss=?-ver-1SG|Trad=vi
-4	dutit	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=huevo
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758572581025
@@ -19618,23 +18241,6 @@
 3	chéché	_	ADJ	_	_	0	root	_	_
 4	pö	_	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Trad=pan
 5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758576700683
-# text = Dúnu cheʼeñ nguay ama chéde nóʼö.
-# text[spa] = Mi tió fue a traer una carga de leña.
-# sent_id = ejemplos:0849
-# tagged = false
-# text[orig] = Dúnu cheʼeñ nguay ama chéde nóʼö.
-# author = lucy
-# finished = Yes
-1	Dúnu	_	NOUN	_	_	2	nsubj	_	_
-2	cheʼeñ	kaʼan	VERB	_	VerbForm=Fin	0	root	_	Gloss=CPL-ir-?|Trad=fue
-3	nguay	_	VERB	_	VerbForm=Fin	2	csubj	_	Gloss=?-traer-?|Trad=traer
-4	ama	_	NUM	_	NumType=Card	5	nummod	_	Trad=uno
-5	chéde	_	NOUN	_	_	3	obj	_	_
-6	nóʼö	_	NOUN	_	_	5	nmod	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758577013480
@@ -20001,36 +18607,6 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758581622186
-# text = Nanad jíba ñeʼe nunkubi.
-# text[spa] = Haz una sanga para el agua de lluvia.
-# sent_id = ejemplos:0874
-# tagged = true
-# text[orig] = Nanad jíba ñeʼe nunkubi.
-# author = mazali
-# finished = Yes
-1	Nanad	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-hacer-2SG|Trad=haz
-2	jíba	_	NOUN	_	_	1	csubj	_	Trad=sanja
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	4	amod:poss	_	Gloss=base-POSS.3|Trad=de.él
-4	nunkubi	_	NOUN	_	_	2	amod	_	SpaceAfter=No|Trad=agua.de.lluvia
-5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758581662720
-# text = Yaʼa ndá gëe gibii.
-# text[spa] = Huele muy bien la hierbabuena.
-# sent_id = ejemplos:0875
-# tagged = true
-# text[orig] = Yaʼa ndá gëe gibii.
-# author = mazali
-# finished = Yes
-1	Yaʼa	_	NOUN	_	_	2	advmod	_	Trad=dolor
-2	ndá	_	ADJ	_	_	3	amod:poss	_	Trad=bueno|UPOS=Guessed
-3	gëe	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-oler-?|Trad=huele
-4	gibii	_	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Trad=hierbabuena
-5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758581709473
 # text = Un jinanuchi toch gideabe.
 # text[spa] = Yo me despierto cuando amanece.
@@ -20345,20 +18921,6 @@
 6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758585799967
-# text = Chivatun jeʼet itñoʼo.
-# text[spa] = El chivo se come al insecto palo.
-# sent_id = ejemplos:0897
-# tagged = true
-# text[orig] = Chivatun jeʼet itñoʼo.
-# author = mazali
-# finished = Yes
-1	Chivatun	_	NOUN	_	_	2	nsubj	_	Trad=chivo
-2	jeʼet	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=PROG-comer-3.AML|Trad=come
-3	itñoʼo	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=insecto.palo
-4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758585944813
 # text = Iyu jòò dí ama biku no baku.
 # text[spa] = En el mes de junio voy a hacer una fiesta en mi casa.
@@ -20611,22 +19173,6 @@
 7	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758740446897
-# text = Dijinun nichis ama it icha.
-# text[spa] = Mí nieto vió una cochinilla.
-# sent_id = ejemplos:0917
-# tagged = false
-# text[orig] = Dijinun nichis ama it icha.
-# author = mazali
-# finished = Yes
-1	Dijinun	_	NOUN	_	_	2	nsubj	_	_
-2	nichis	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ver-3.MSC|Trad=vio
-3	ama	_	NUM	_	NumType=Card	4	nummod	_	Trad=uno
-4	it	_	NOUN	_	_	2	nsubj	_	Trad=animal
-5	icha	_	ADJ	_	_	4	dep	_	SpaceAfter=No|Trad=frío|UPOS=Guessed
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758740659131
 # text = Bea itintu ñëʼe chida.
 # text[spa] = Mi papa tiene toros.
@@ -20658,35 +19204,6 @@
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758740748162
-# text = Intoʼö jobey María.
-# text[spa] = Mi suegra se llama María.
-# sent_id = ejemplos:0920
-# tagged = true
-# text[orig] = Intoʼö jobey María.
-# author = mazali
-# finished = Yes
-1	Intoʼö	_	NOUN	_	_	2	nsubj	_	Trad=suegra
-2	jobey	_	NOUN	_	_	0	root	_	Trad=se.llama|UPOS=Guessed
-3	María	María	PROPN	_	_	2	nsubj	_	SpaceAfter=No|Trad=María
-4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758740807606
-# text = Iñsoʼö niku jobey Luis.
-# text[spa] = Mi suegro se llama Luis.
-# sent_id = ejemplos:0921
-# tagged = false
-# text[orig] = Iñsoʼö niku jobey Luis.
-# author = mazali
-# finished = Yes
-1	Iñsoʼö	_	NOUN	_	_	3	nsubj	_	_
-2	niku	_	ADJ	_	_	1	amod	_	Trad=viejo
-3	jobey	_	NOUN	_	_	0	root	_	Trad=se.llama|UPOS=Guessed
-4	Luis	Luis	PROPN	_	_	3	nsubj	_	SpaceAfter=No|Trad=Luis
-5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758740868979
 # text = Diyan chinuy ama íma.
 # text[spa] = Mi tío mató un zorrillo.
@@ -20700,23 +19217,6 @@
 3	ama	_	NUM	_	NumType=Card	4	nummod	_	Trad=uno
 4	íma	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=zorrillo
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758741076496
-# text = Gua ii chedee ñeʼe iti ñeʼë.
-# text[spa] = No pesa la carga de mi animal.
-# sent_id = ejemplos:0923
-# tagged = true
-# text[orig] = Gua ii chedee ñeʼe iti ñeʼë.
-# author = mazali
-# finished = Yes
-1	Gua	_	ADV	_	_	2	advmod	_	Gloss=NEG|Trad=no
-2	ii	_	VERB	_	_	0	root	_	Trad=pesa|UPOS=Guessed
-3	chedee	_	NOUN	_	_	2	nsubj	_	Trad=carga
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	5	nmod:poss	_	Gloss=base-POSS.3|Trad=de.él
-5	iti	_	NOUN	_	_	2	obl	_	Trad=animal
-6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	5	nummod:poss	_	Gloss=base-POSS.1SG|SpaceAfter=No|Trad=de.mí
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758741110860
@@ -20919,23 +19419,6 @@
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773426228794
-# text = Neʼë jààba ñeʼe kántu chi nana.
-# text[spa] = Quiero ingredientes para el caldo que voy a hacer.
-# sent_id = ejemplos:0937
-# tagged = true
-# text[orig] = Neʼë jààba ñeʼe kántu chi nana.
-# author = mazali
-# finished = Yes
-1	Neʼë	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-querer-1SG|Trad=quiero
-2	jààba	_	NOUN	_	_	1	nsubj	_	Trad=ingredientes
-3	ñeʼe	ñeʼe	ADP	_	NounType=Relat	4	case	_	Gloss=base-POSS.3|Trad=de.él
-4	kántu	_	NOUN	_	_	2	obl	_	Trad=caldo
-5	chi	chi	SCONJ	_	_	6	mark	_	Gloss=COMPL|Trad=que
-6	nana	_	VERB	_	_	4	acl	_	Gloss=?-hacer-?|SpaceAfter=No|Trad=voy.a.hacer
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758758031357
 # text = Jába yana ñeʼë.
 # text[spa] = Ladra mi perro.
@@ -20948,21 +19431,6 @@
 2	yana	_	NOUN	_	_	1	nsubj	_	Trad=perro
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	2	nmod:poss	_	Gloss=base-POSS.1SG|SpaceAfter=No|Trad=de.mí
 4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758758001854
-# text = Nochi inbakuyan jiíy jadi.
-# text[spa] = Donde se casan toman tepache.
-# sent_id = ejemplos:0939
-# tagged = false
-# text[orig] = Nochi inbakuyan jiíy jadi.
-# author = mazali
-# finished = Yes
-1	Nochi	_	ADV	_	AdvType=Rel	2	advmod	_	Trad=donde
-2	inbakuyan	_	VERB	_	_	0	root	_	_
-3	jiíy	_	VERB	_	VerbForm=Fin	2	ccomp	_	Gloss=?-tomar-3.HUM|Trad=toma
-4	jadi	_	NOUN	_	_	3	obj	_	SpaceAfter=No|Trad=tepache
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758757866206
@@ -21023,21 +19491,6 @@
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758758308948
-# text = Chaku jeakuy pañu ñeʼeñ.
-# text[spa] = Mi mamá se tapa su rebozo.
-# sent_id = ejemplos:0944
-# tagged = true
-# text[orig] = chaku jeakuy pañu ñeʼeñ.
-# author = mazali
-# finished = Yes
-1	Chaku	_	NOUN	_	_	2	nsubj	_	Trad=mi.mamá
-2	jeakuy	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-tapar-3.HUM|Trad=tapar
-3	pañu	_	NOUN	_	_	2	nsubj	_	Trad=rebozo
-4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	3	nmod:poss	_	Gloss=base-POSS.3.HUM|SpaceAfter=No|Trad=de.él
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773366221755
 # text = Toch inbíku jinay jijobaa.
 # text[spa] = En la fiesta de semana santa hacen sombras.
@@ -21066,23 +19519,6 @@
 3	jíkuu	_	NOUN	_	_	2	nsubj	_	Trad=río
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	3	nmod:poss	_	Gloss=base-POSS.1SG|SpaceAfter=No|Trad=de.mí
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758759042522
-# text = Kunud jima nochi jinee no yuntu.
-# text[spa] = Ponle sal a la comida.
-# sent_id = ejemplos:0947
-# tagged = true
-# text[orig] = Kunud jima nochi jinee no yuntu.
-# author = mazali
-# finished = Yes
-1	Kunud	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-poner-2SG|Trad=ponle
-2	jima	_	NOUN	_	_	1	nsubj	_	Trad=sal
-3	nochi	_	ADV	_	AdvType=Rel	4	advmod	_	Trad=donde
-4	jinee	_	VERB	_	VerbForm=Fin	1	ccomp	_	Gloss=?-hablar-?|Trad=hablo
-5	no	no	ADP	_	_	6	case	_	Gloss=LOC|Trad=en
-6	yuntu	_	NOUN	_	_	4	obl	_	SpaceAfter=No|Trad=tortilla
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758759070735
@@ -21419,21 +19855,6 @@
 3	snú	_	VERB	_	_	0	root	_	Gloss=?-tener-1SG|Trad=tengo
 4	niibii	_	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Trad=papa
 5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758841046075
-# text = Kàba jí nochi jaá.
-# text[spa] = Se pone feo donde se derrumba.
-# sent_id = ejemplos:0974
-# tagged = false
-# text[orig] = Kàba jí nochi jaá.
-# author = mazali
-# finished = Yes
-1	Kàba	_	ADJ	_	_	2	advmod	_	Trad=feo|UPOS=Guessed
-2	jí	_	VERB	_	_	0	root	_	_
-3	nochi	_	ADV	_	AdvType=Rel	4	advmod	_	Trad=donde
-4	jaá	_	VERB	_	_	2	advcl	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758841087097
@@ -21816,20 +20237,6 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758237095462
-# text = Yeabean káya najaá.
-# text[spa] = Estan muy pequeñas las nueces.
-# sent_id = ejemplos:1003
-# tagged = true
-# text[orig] = Yeabean káya najaá.
-# author = mazali
-# finished = Yes
-1	Yeabean	_	ADV	_	_	2	advmod	_	Trad=.muy,mucho
-2	káya	_	ADJ	_	Number=Plur|VerbForm=Stat	0	root	_	Trad=pequeñas
-3	najaá	_	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Trad=nuez
-4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758237131059
 # text = Chidan bea obe keabeay.
 # text[spa] = Mi papá tiene dos hermanos.
@@ -22020,22 +20427,6 @@
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758846940868
-# text = Tochi jee kubi jinbinti yata.
-# text[spa] = Cuando llueve retoñan las hierbas.
-# sent_id = ejemplos:1019
-# tagged = true
-# text[orig] = Tochi jee kubi jinbinti yata.
-# author = mazali
-# finished = Yes
-1	Tochi	tochi	SCONJ	_	_	2	mark	_	Gloss=cuando|Trad=cuando
-2	jee	cheʼe	VERB	_	VerbForm=Fin	4	advmod	_	Gloss=?-comer-1SG|Trad=como
-3	kubi	_	NOUN	_	_	2	nsubj	_	Trad=lluvia
-4	jinbinti	_	VERB	_	_	0	root	_	Gloss=?-retoñar-?|Trad=retoñan
-5	yata	_	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Trad=hierba
-6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758846996052
 # text = Tochi jììya kuaa, jee kubnoʼö.
 # text[spa] = Cuando hay relampago es porque hay aguacero.
@@ -22099,22 +20490,6 @@
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758847132687
-# text = Ti biʼin nichita ama kudiana.
-# text[spa] = Mi hermana vió una campamocha.
-# sent_id = ejemplos:1024
-# tagged = true
-# text[orig] = Ti biʼin nichita ama kudiana.
-# author = mazali
-# finished = Yes
-1	Ti	_	NOUN	_	_	3	obj	_	Trad=ese
-2	biʼin	_	NOUN	_	_	1	nmod	_	Trad=mi.hermana
-3	nichita	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ver-3.FEM|Trad=vio
-4	ama	_	NUM	_	NumType=Card	5	nummod	_	Trad=uno
-5	kudiana	_	NOUN	_	_	3	obj	_	SpaceAfter=No|Trad=campamocha
-6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758847151832
 # text = Soʼön jinus kudima.
 # text[spa] = Los hombres usan calzón de manta.
@@ -22127,24 +20502,6 @@
 2	jinus	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-usar-3.MSC|Trad=usa
 3	kudima	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=calzón.de.manta.
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1758847437703
-# text = Ted kudintaa kat neʼe kaaka kaka kú.
-# text[spa] = Dame la tijera que quiero cortar este papel.
-# sent_id = ejemplos:1026
-# tagged = true
-# text[orig] = Ted kudintaa kat neʼe kaaka kaka kú.
-# author = mazali
-# finished = Yes
-1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=CPL-dar-2SG|Trad=dio
-2	kudintaa	_	NOUN	_	_	1	obj	_	Trad=tijera
-3	kat	_	SCONJ	_	_	4	mark	_	Trad=porque
-4	neʼe	_	VERB	_	VerbForm=Fin	1	advcl	_	Gloss=?-querer-?|Trad=quiere
-5	kaaka	_	VERB	_	_	4	xcomp	_	Trad=papel
-6	kaka	_	NOUN	_	_	5	obj	_	Trad=papel
-7	kú	_	NOUN	_	_	6	det	_	SpaceAfter=No|Trad=campana
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1758847464439
@@ -22679,20 +21036,6 @@
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1758912345979
-# text = Ted silï kande.
-# text[spa] = Dame al niño para cargarlo.
-# sent_id = ejemplos:1068
-# tagged = false
-# text[orig] = Ted silï kande.
-# author = mazali
-# finished = Yes
-1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=CPL-dar-2SG|Trad=dio
-2	silï	_	NOUN	_	_	1	obj	_	Trad=niño
-3	kande	_	VERB	_	_	1	advmod	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1758912377020
 # text = Ún neʼe kuä.
 # text[spa] = Quiero llorar.
@@ -23047,23 +21390,6 @@
 1	Jidiyad	_	VERB	_	_	0	root	_	_
 2	ú	uu	PRON	_	PronType=Prs	1	obj	_	Gloss=1SG|SpaceAfter=No|Trad=yo
 3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759177189253
-# text = Kutea naune kuyadu chi tika joʼöd.
-# text[spa] = Ya no volveré a dormir con lo que me estás diciendo.
-# sent_id = ejemplos:1094
-# tagged = false
-# text[orig] = Kutea naune kuyadu chi tika joʼöd.
-# author = mazali
-# finished = Yes
-1	Kutea	_	ADV	_	_	3	advmod	_	Trad=no.hay
-2	naune	_	VERB	_	_	3	aux	_	_
-3	kuyadu	_	VERB	_	_	0	root	_	Gloss=?-dormir-?|Trad=dormir
-4	chi	chi	SCONJ	_	_	6	mark	_	Gloss=COMPL|Trad=que
-5	tika	_	ADV	_	_	6	advmod	_	Trad=ropa
-6	joʼöd	_	VERB	_	_	3	advcl	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759177290360
@@ -23638,19 +21964,6 @@
 6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1759179340751
-# text = Ë* koʼö.
-# text[spa] = No voy a ir.
-# sent_id = ejemplos:1142
-# tagged = false
-# text[orig] = Ë* koʼö.
-# author = mazali
-# finished = Yes
-1	Ë*	_	INTJ	_	_	2	advmod	_	_
-2	koʼö	kaʼan	VERB	_	VerbForm=Fin	0	root	_	Gloss=POT-ir-1SG|SpaceAfter=No|Trad=iré
-3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759179362635
 # text = Yàba biʼi.
 # text[spa] = Maceta de frutas.
@@ -23706,21 +22019,6 @@
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	6	nmod:poss	_	Gloss=base-POSS.3|Trad=de.él
 6	yokom	_	NOUN	_	_	4	obl	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1759179604480
-# text = Ni kuʼu jí tasë.
-# text[spa] = Ellas son cuatro.
-# sent_id = ejemplos:1148
-# tagged = false
-# text[orig] = Ni kuʼu jí tasë.
-# author = mazali
-# finished = Yes
-1	Ni	_	ADV	_	_	3	advmod	_	Trad=hasta
-2	kuʼu	kúʼu	NUM	_	VerbForm=Fin	3	nummod	_	Gloss=POT-tomar-1SG|Trad=tomo
-3	jí	_	VERB	_	_	0	root	_	_
-4	tasë	tasë	PRON	_	PronType=Prs	3	nsubj	_	Gloss=3PL.FEM|SpaceAfter=No|Trad=ellas
-5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1759179710995
@@ -23895,39 +22193,6 @@
 6	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773328537567
-# text = Ú jinʼaku chi kané ka ta obe.
-# text[spa] = Yo me acuerdo que se quedaron otros dos.
-# sent_id = ejemplos:1161
-# tagged = false
-# text[orig] = ú jinʼaku chi kané ka ta obe.
-# author = mazali
-# finished = Yes
-1	Ú	uu	PRON	_	PronType=Prs	2	nsubj	_	Gloss=1SG|Trad=yo
-2	jinʼaku	_	VERB	_	_	0	root	_	_
-3	chi	chi	SCONJ	_	_	4	mark	_	Gloss=COMPL|Trad=que
-4	kané	_	VERB	_	_	2	ccomp	_	Gloss=?-estar-?|Trad=está
-5	ka	_	ADV	_	_	4	advmod	_	Trad=aún
-6	ta	_	ADJ	_	NounType=Clf	7	amod	_	Trad=señora
-7	obe	_	NUM	_	_	4	nsubj	_	SpaceAfter=No|Trad=dos
-8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773328624570
-# text = Mö no ventana kané.
-# text[spa] = Está debajo de la ventana.
-# sent_id = ejemplos:1163
-# tagged = false
-# text[orig] = Mö no ventana kané.
-# author = mazali
-# finished = Yes
-1	Mö	_	ADP	_	_	3	case	_	_
-2	no	no	ADP	_	_	3	case	_	Gloss=LOC|Trad=en
-3	ventana	_	NOUN	_	_	0	root	_	_
-4	kané	_	VERB	_	_	3	cop	_	Gloss=?-estar-?|SpaceAfter=No|Trad=está
-5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1760744136456
 # text = Tika díʼuu.
 # text[spa] = Asi le hacemos.
@@ -24031,23 +22296,6 @@
 6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773328755161
-# text = Man nichi gua tumgoʼo gua joʼös.
-# text[spa] = Si no le pregunté no me digo nada (noun:masculino).
-# sent_id = ejemplos:1172
-# tagged = false
-# text[orig] = Man nichi gua tumgoʼo gua joʼös.
-# author = mazali
-# finished = Yes
-1	Man	_	ADV	_	_	4	advmod	_	Trad=ahora
-2	nichi	_	SCONJ	_	VerbForm=Fin	4	mark	_	Gloss=?-ver-1SG|Trad=vi
-3	gua	_	ADV	_	_	4	advmod	_	Gloss=NEG|Trad=no
-4	tumgoʼo	_	VERB	_	_	6	ccomp	_	_
-5	gua	_	ADV	_	_	6	advmod	_	Gloss=NEG|Trad=no
-6	joʼös	_	VERB	_	_	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1760745356441
 # text = Yeabean gesoʼös.
 # text[spa] = Protestó mucho.
@@ -24115,23 +22363,6 @@
 3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773177349337
-# text = ¿Y nichi gua kutenus tu?
-# text[spa] = ¿Y si ya no va a querer?
-# sent_id = ejemplos:1178
-# tagged = false
-# text[orig] = ¿Y nichi gua kutenus tu?
-# author = mazali
-# finished = Yes
-1	¿	¿	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	Y	_	SCONJ	_	_	5	discourse	_	_
-3	nichi	_	SCONJ	_	VerbForm=Fin	5	mark	_	Gloss=?-ver-1SG|Trad=vi
-4	gua	_	ADV	_	_	5	advmod	_	Gloss=NEG|Trad=no
-5	kutenus	_	VERB	_	_	0	root	_	_
-6	tu	_	INTJ	_	_	5	dep	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773177387599
 # text = Nabenri kuaku no.
 # text[spa] = Que se solucionen las cosas.
@@ -24144,23 +22375,6 @@
 2	kuaku	_	ADJ	_	_	1	advmod	_	Trad=derecho|UPOS=Guessed
 3	no	no	ADP	_	_	1	nsubj	_	Gloss=LOC|SpaceAfter=No|Trad=en
 4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773177548356
-# text = Kab chi gua ñeʼeñ bed kaba.
-# text[spa] = Solo porque no quiere problemas.
-# sent_id = ejemplos:1180
-# tagged = false
-# text[orig] = Kab chi gua ñeʼeñ bed kaba.
-# author = mazali
-# finished = Yes
-1	Kab	_	SCONJ	_	_	4	mark	_	_
-2	chi	chi	SCONJ	_	_	4	mark	_	Gloss=COMPL|Trad=que
-3	gua	_	ADV	_	_	4	advmod	_	Gloss=NEG|Trad=no
-4	ñeʼeñ	ñeʼe	VERB	_	NounType=Relat	0	root	_	Gloss=base-POSS.3.HUM|Trad=de.él
-5	bed	_	NOUN	_	_	4	obj	_	_
-6	kaba	_	ADJ	_	_	5	amod	_	SpaceAfter=No|Trad=feo|UPOS=Guessed
-7	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773177617085
@@ -25260,23 +23474,6 @@
 3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773187902832
-# text = Neʼe cheʼe ama tiba ñeʼe jimbeaku.
-# text[spa] = Quiero comer una empanada de hierba santa.
-# sent_id = ejemplos:1257
-# tagged = false
-# text[orig] = Neʼe cheʼe ama tiba ñeʼe jimbeaku.
-# author = mazali
-# finished = Yes
-1	Neʼe	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-querer-?|Trad=quiere
-2	cheʼe	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	1	csubj	_	Gloss=POT-comer-1SG|Trad=como
-3	ama	_	NUM	_	NumType=Card	4	nummod	_	Trad=uno
-4	tiba	_	NOUN	_	_	2	obj	_	Trad=empanada
-5	ñeʼe	ñeʼe	ADP	_	NounType=Relat	6	case	_	Gloss=base-POSS.3|Trad=de.él
-6	jimbeaku	_	NOUN	_	_	4	obl	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773187956330
 # text = Chaku nubtöñ nuku.
 # text[spa] = Mi mamá se enojó conmigo.
@@ -25768,37 +23965,6 @@
 # finished = Yes
 1	Bakud	_	NOUN	_	_	0	root	_	Gloss=casa-POSS.2SG|SpaceAfter=No|Trad=tu.casa
 2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773189660813
-# text = Jeʼes kuete nuku chidas.
-# text[spa] = Va al csampo con su papá.
-# sent_id = ejemplos:1293
-# tagged = false
-# text[orig] = Jeʼes kuete nuku chidas.
-# author = mazali
-# finished = Yes
-1	Jeʼes	_	VERB	_	_	0	root	_	_
-2	kuete	_	NOUN	_	_	1	obl	_	Trad=campo
-3	nuku	nuku	ADP	_	_	4	case	_	Gloss=con|Trad=con
-4	chidas	_	NOUN	_	_	2	obl	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773189755478
-# text = Jinoʼon no skuela job jobe.
-# text[spa] = Vamos a la escuela diario.
-# sent_id = ejemplos:1294
-# tagged = false
-# text[orig] = Jinoʼon no skuela job jobe.
-# author = mazali
-# finished = Yes
-1	Jinoʼon	_	VERB	_	_	0	root	_	_
-2	no	no	ADP	_	_	3	case	_	Gloss=LOC|Trad=en
-3	skuela	skuela	NOUN	_	_	1	obl	_	Trad=escuela
-4	job	_	NOUN	_	_	5	nmod	_	Trad=día
-5	jobe	_	NOUN	_	_	1	advmod	_	SpaceAfter=No|Trad=día
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773189685390
@@ -26331,20 +24497,6 @@
 5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773191621295
-# text = Kab inu chidúbi.
-# text[spa] = Me dan asco las cucarachas.
-# sent_id = ejemplos:1333
-# tagged = false
-# text[orig] = Kab inu chidúbi.
-# author = mazali
-# finished = Yes
-1	Kab	_	ADJ	_	_	2	advmod	_	_
-2	ínu	kanu	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=PROG-matar-1SG|Trad=mato
-3	chidúbi	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=cucaracha
-4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773191636135
 # text = It nusa.
 # text[spa] = Cuerpo espín.
@@ -26455,20 +24607,6 @@
 # finished = Yes
 1	Ndóʼoo	_	NOUN	_	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773191747997
-# text = A nde ndoyo.
-# text[spa] = Hace muchos años.
-# sent_id = ejemplos:1343
-# tagged = true
-# text[orig] = A nde ndoyo.
-# author = mazali
-# finished = Yes
-1	A	a	ADV	_	_	2	advmod	_	Gloss=QST
-2	nde	_	ADV	_	VerbForm=Fin	3	advmod	_	Gloss=?-bailar-?|Trad=bailas
-3	ndoyo	_	NOUN	_	_	0	root	_	SpaceAfter=No|Trad=año
-4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773191771841
@@ -26847,23 +24985,6 @@
 4	jidiñʼ	_	VERB	_	_	0	root	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1755722605803
-# text = ¿A deanud dae di takó?
-# text[spa] = ¿Sabes que hizo ella?
-# sent_id = ejemplos:1371
-# tagged = true
-# text[orig] = ¿A deanud dae di takó?
-# author = mazali
-# finished = Yes
-1	¿	¿	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	A	a	PART	_	_	3	discourse	_	Gloss=QST
-3	deanud	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-saber-2SG|Trad=sabes
-4	dae	_	PRON	_	_	5	mark	_	Trad=que
-5	di	_	VERB	_	PronType=Prs	3	ccomp	_	Gloss=2SG|Trad=tú
-6	takó	takó	PRON	_	PronType=Prs	5	nsubj	_	Gloss=3.FEM|SpaceAfter=No|Trad=ella
-7	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1755722446546
 # text = Sakón kanus ama yuduu.
 # text[spa] = Él está montando en un caballo.
@@ -26894,38 +25015,6 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1755722256722
-# text = Kunud niʼö am lï núni chuʼuu.
-# text[spa] = Pon a coser un poco de frijol para comer.
-# sent_id = ejemplos:1374
-# tagged = true
-# text[orig] = Kunud niʼö am lï núni chuʼuu.
-# author = mazali
-# finished = Yes
-1	Kunud	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-poner-2SG|Trad=ponle
-2	niʼö	_	NOUN	_	_	1	iobj	_	Trad=en.la.olla
-3	am	_	NUM	_	_	4	nummod	_	Trad=uno
-4	lï	_	VERB	_	Number=Sing|VerbForm=Stat	5	advmod	_	Trad=pequeño
-5	núni	_	NOUN	_	_	6	obj	_	Trad=frijol
-6	chuʼuu	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	1	ccomp	_	Gloss=?-comer-1PL.INC|SpaceAfter=No|Trad=comemos
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1755721743168
-# text = Sakon am soʼö duku.
-# text[spa] = Ese es un ladrón.
-# sent_id = ejemplos:1375
-# tagged = true
-# text[orig] = Sakon am soʼö duku.
-# author = mazali
-# finished = Yes
-1	Sakon	sakó	PRON	_	PronType=Prs|Typo=Yes	4	nsubj	_	Gloss=3.MSC|Normal=sakó|Trad=él
-2	am	_	NUM	_	_	3	nummod	_	Trad=uno
-3	soʼö	_	NOUN	_	_	4	clf	_	Trad=hombre
-4	duku	_	ADJ	_	_	0	root	_	SpaceAfter=No|Trad=ladrón
-5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1755721646488
 # text = Sakon am songubi.
 # text[spa] = Ese es un borracho.
@@ -26938,21 +25027,6 @@
 2	am	_	NUM	_	_	3	nummod	_	Trad=uno
 3	songubi	_	ADJ	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1755721607086
-# text = Takon ama toʼö tö.
-# text[spa] = Ella es enojona.
-# sent_id = ejemplos:1377
-# tagged = true
-# text[orig] = Takon ama toʼö tö.
-# author = mazali
-# finished = Yes
-1	Takon	takó	PRON	_	PronType=Prs|Typo=Yes	4	nsubj	_	Gloss=3.FEM|Normal=takó|Trad=ella
-2	ama	_	NUM	_	NumType=Card	3	nummod	_	Trad=uno
-3	toʼö	_	PRON	_	_	4	clf	_	Trad=él
-4	tö	_	ADJ	_	_	0	root	_	SpaceAfter=No|Trad=mucho|UPOS=Guessed
-5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1755721694255
@@ -27319,23 +25393,6 @@
 3	koʼota	_	VERB	_	_	0	root	_	_
 4	dayata	daya	NOUN	_	_	3	obj	_	Gloss=hijo-POSS.3.FEM|SpaceAfter=No|Trad=su.hijo(a)
 5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773192900076
-# text = Jobe kun gua neʼe di ntiñu.
-# text[spa] = Hoy no quiero trabajar.
-# sent_id = ejemplos:1403
-# tagged = true
-# text[orig] = Jobe kun gua neʼe di ntiñu.
-# author = mazali
-# finished = Yes
-1	Jobe	_	NOUN	_	_	4	advmod	_	Trad=día
-2	kun	_	DET	_	PronType=Dem	1	det	_	Trad=esto
-3	gua	_	ADV	_	_	4	advmod	_	Gloss=NEG|Trad=no
-4	neʼe	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-querer-?|Trad=quiere
-5	di	_	VERB	_	_	4	xcomp	_	Gloss=?-hacer-?|Trad=hacer
-6	ntiñu	_	NOUN	_	_	5	obj	_	SpaceAfter=No|Trad=trabajo
-7	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1756302937507
@@ -28039,23 +26096,6 @@
 9	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773253944564
-# text = ¿A dea akud chi cheʼed?
-# text[spa] = ¿Qué estabas pensando cuando fuiste?
-# sent_id = ejemplos:1451
-# tagged = false
-# text[orig] = ¿A dea akud chi cheʼed?
-# author = mazali
-# finished = Yes
-1	¿	¿	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	A	a	PART	_	_	4	discourse	_	Gloss=QST
-3	dea	_	PRON	_	_	4	obj	_	Trad=que|UPOS=Guessed
-4	akud	_	VERB	_	_	0	root	_	_
-5	chi	chi	SCONJ	_	_	6	mark	_	Gloss=COMPL|Trad=que
-6	cheʼed	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	4	advmod	_	Gloss=POT-comer-2SG|SpaceAfter=No|Trad=comes
-7	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1759773926335
 # text = A chuʼuu nuu yuntu.
 # text[spa] = Hay que comer de una vez.
@@ -28637,22 +26677,6 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773256816676
-# text = Nabitud ta obe yuntu cheʼe.
-# text[spa] = Calientame dos tortillas.
-# sent_id = ejemplos:1491
-# tagged = false
-# text[orig] = Nabitud ta obe yuntu cheʼe.
-# author = mazali
-# finished = Yes
-1	Nabitud	_	VERB	_	_	0	root	_	_
-2	ta	_	ADJ	_	NounType=Clf	4	amod	_	Trad=señora
-3	obe	_	NUM	_	_	4	nummod	_	Trad=dos
-4	yuntu	_	NOUN	_	_	1	obj	_	Trad=tortilla
-5	cheʼe	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	1	advcl	_	Gloss=POT-comer-1SG|SpaceAfter=No|Trad=como
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773364902498
 # text = Kanid kat a nuʼuu.
 # text[spa] = Apurate que ya nos vamos.
@@ -28666,22 +26690,6 @@
 3	a	a	ADV	_	_	4	advcl	_	Trad=ya
 4	nuʼuu	_	VERB	_	_	1	advcl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773256944384
-# text = Kabiö nichi tangaya ndá nuku.
-# text[spa] = Mañana voy a ver a mis amigas.
-# sent_id = ejemplos:1493
-# tagged = false
-# text[orig] = Kabiö nichi tangaya ndá nuku.
-# author = mazali
-# finished = Yes
-1	Kabiö	_	ADV	_	_	2	advmod	_	Trad=mañana
-2	nichi	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ver-1SG|Trad=vi
-3	tangaya	_	NOUN	_	_	2	obj	_	_
-4	ndá	_	ADJ	_	_	3	amod	_	Trad=bueno|UPOS=Guessed
-5	nuku	nuku	ADP	_	_	3	obl	_	Gloss=con|SpaceAfter=No|Trad=con
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773256980764
@@ -28791,23 +26799,6 @@
 2	kuku	_	VERB	_	_	1	ccomp	_	_
 3	lï	_	VERB	_	Number=Sing|VerbForm=Stat	2	nsubj	_	SpaceAfter=No|Trad=pequeño
 4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773257916700
-# text = ¿A dae hora nikuy yuta?
-# text[spa] = ¿A que hora van a vender la tortilla?
-# sent_id = ejemplos:1501
-# tagged = false
-# text[orig] = ¿A dae hora nikuy yuta?
-# author = mazali
-# finished = Yes
-1	¿	¿	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	A	a	PART	_	_	5	advmod	_	Gloss=QST
-3	dae	_	PRON	_	_	5	obj	_	Trad=que
-4	hora	_	ADV	_	_	5	advmod	_	_
-5	nikuy	_	VERB	_	_	0	root	_	_
-6	yuta	_	NOUN	_	_	5	obj	_	SpaceAfter=No|Trad=carne
-7	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773257955648
@@ -29092,24 +27083,6 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773258716126
-# text = Ká ama tika ñeʼe biku ñeʼe ño.
-# text[spa] = Me compré ropa para la fiesta del pueblo.
-# sent_id = ejemplos:1523
-# tagged = true
-# text[orig] = Ká ama tika ñeʼe biku ñeʼe ño.
-# author = mazali
-# finished = Yes
-1	Ká	kua	VERB	_	VerbForm=Fin	0	root	_	Gloss=CPL-comprar-1SG|Trad=comprar
-2	ama	_	NUM	_	NumType=Card	3	nummod	_	Trad=uno
-3	tika	_	NOUN	_	_	1	obj	_	Trad=ropa
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	5	case	_	Gloss=base-POSS.3|Trad=de.él
-5	biku	_	NOUN	_	Typo=Yes	1	obl	_	Normal=bíku|Trad=fiesta
-6	ñeʼe	ñeʼe	ADP	_	NounType=Relat	7	case	_	Gloss=base-POSS.3|Trad=de.él
-7	ño	_	NOUN	_	_	5	obl	_	SpaceAfter=No|Trad=en
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773258795352
 # text = Iña chi chendi mi chikuʼu iña.
 # text[spa] = La persona que está parada ahí es mi abuela.
@@ -29377,25 +27350,6 @@
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773264593293
-# text = Chaku nuku chida chimbaukuñ tochi nituñu ndoyo iña.
-# text[spa] = Mi mamá y mi papá se casaron a los 15 años.
-# sent_id = ejemplos:1542
-# tagged = false
-# text[orig] = Chaku nuku chida chimbaukuñ tochi nituñu ndoyo iña.
-# author = mazali
-# finished = Yes
-1	Chaku	_	NOUN	_	_	3	conj	_	Trad=mi.mamá
-2	nuku	nuku	CCONJ	_	_	3	cc	_	Gloss=con|Trad=con
-3	chida	_	NOUN	_	_	4	nsubj	_	Trad=mi.papá
-4	chimbaukuñ	_	VERB	_	_	0	root	_	_
-5	tochi	tochi	SCONJ	_	_	7	mark	_	Gloss=cuando|Trad=cuando
-6	nituñu	_	NUM	_	_	7	nummod	_	_
-7	ndoyo	_	NOUN	_	_	4	ccomp	_	Trad=año
-8	iña	_	NOUN	_	_	7	dep	_	SpaceAfter=No|Trad=gente
-9	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773264667686
 # text = Na chitè ndakuu jima ñeʼe.
 # text[spa] = Se rompieron mis huaraches.
@@ -29613,21 +27567,6 @@
 6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773265589939
-# text = Ú níchi ama kú.
-# text[spa] = Yo ví una vibora.
-# sent_id = ejemplos:1557
-# tagged = true
-# text[orig] = Ú níchi ama kú.
-# author = paula
-# finished = Yes
-1	Ú	uu	PRON	_	PronType=Prs	2	obj	_	Gloss=1SG|Trad=yo
-2	níchi	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ver-1SG|Trad=vi
-3	ama	_	NUM	_	NumType=Card	4	nummod	_	Trad=uno
-4	kú	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=campana
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773265641517
 # text = Yeabean icha kú ñeʼe chinbaʼa ñeʼë.
 # text[spa] = Esta muy frío el fierro de mi puerta.
@@ -29769,21 +27708,6 @@
 5	chibatu	_	NOUN	_	_	4	obj	_	Trad=chivo
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	5	nmod:poss	_	Gloss=base-POSS.1SG|SpaceAfter=No|Trad=de.mí
 7	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773364368170
-# text = Yeabean kùchi nochi jitatï.
-# text[spa] = Mi almohada es de algodón.
-# sent_id = ejemplos:1567
-# tagged = false
-# text[orig] = Yeabean kùchi nochi jitatï.
-# author = paula
-# finished = Yes
-1	Yeabean	_	ADV	_	_	2	advmod	_	Trad=.muy,mucho
-2	kùchi	_	ADJ	_	_	0	root	_	Gloss=?-sembrar-?|Trad=sembrar
-3	nochi	_	ADV	_	AdvType=Rel	4	advmod	_	Trad=donde
-4	jitatï	_	VERB	_	_	2	acl	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773266789457
@@ -29938,38 +27862,6 @@
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773267492838
-# text = Leeko jeʼet iti.
-# text[spa] = El coyote come animales.
-# sent_id = ejemplos:1578
-# tagged = true
-# text[orig] = Leeko jeʼet iti.
-# author = paula
-# finished = Yes
-1	Leeko	_	NOUN	_	_	2	nsubj	_	Trad=coyote
-2	jeʼet	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	0	root	_	Gloss=PROG-comer-3.AML|Trad=come
-3	iti	_	NOUN	_	_	2	obj	_	SpaceAfter=No|Trad=animal
-4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773268302336
-# text = Yaa lï ama nanta chi kane kuchba.
-# text[spa] = Esta muy chiquito la flor que esta en el patio.
-# sent_id = ejemplos:1579
-# tagged = true
-# text[orig] = Yaa lï ama nanta chi kane kuchba.
-# author = paula
-# finished = Yes
-1	Yaa	_	ADV	_	_	2	advmod	_	Trad=está|UPOS=Guessed
-2	lï	_	ADJ	_	Number=Sing|VerbForm=Stat	0	root	_	Trad=pequeño
-3	ama	_	NUM	_	NumType=Card	4	nummod	_	Trad=uno
-4	nanta	_	NOUN	_	_	2	nsubj	_	Trad=flor
-5	chi	chi	SCONJ	_	_	7	mark	_	Gloss=COMPL|Trad=que
-6	kane	_	VERB	_	_	7	cop	_	Gloss=?-estar-?|Trad=está
-7	kuchba	_	NOUN	_	_	2	advcl	_	SpaceAfter=No|Trad=patio
-8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773268430810
 # text = Yeabean lii tiká.
 # text[spa] = Está muy arrugado mi ropa.
@@ -30078,21 +27970,6 @@
 3	luuchi	_	ADJ	_	_	0	root	_	Trad=bonito|UPOS=Guessed
 4	noos	_	NOUN	_	_	3	nsubj	_	Gloss=cara-POSS.3.MSC|SpaceAfter=No|Trad=su.cara
 5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773269045706
-# text = A neʼé kubi màà.
-# text[spa] = Ya quiere anochecer.
-# sent_id = ejemplos:1587
-# tagged = true
-# text[orig] = a neʼé kubi màà.
-# author = paula
-# finished = Yes
-1	A	a	ADV	_	_	2	advmod	_	Trad=ya
-2	neʼé	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-querer-1SG|Trad=quiero
-3	kubi	_	VERB	_	_	2	aux	_	Trad=lluvia
-4	màà	_	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Trad=noche
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773269068461
@@ -30212,23 +28089,6 @@
 4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773273508516
-# text = Mòo bea ama ñana lï ñeʼë.
-# text[spa] = Yo tengo un perrito.
-# sent_id = ejemplos:1596
-# tagged = false
-# text[orig] = Mòo bea ama ñana lï ñeʼë.
-# author = paula
-# finished = Yes
-1	Mòo	_	PRON	_	_	2	nsubj	_	_
-2	bea	_	VERB	_	_	0	root	_	Gloss=?-existir-3|Trad=hay
-3	ama	_	NUM	_	NumType=Card	4	nummod	_	Trad=uno
-4	ñana	_	NOUN	_	_	2	nsubj	_	Trad=perro
-5	lï	_	ADJ	_	Number=Sing|VerbForm=Stat	4	amod	_	Trad=pequeño
-6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	4	nmod:poss	_	Gloss=base-POSS.1SG|SpaceAfter=No|Trad=de.mí
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773273544842
 # text = Mò ñoʼö bea nanta.
 # text[spa] = Debajo del árbol tengo flores.
@@ -30242,20 +28102,6 @@
 3	bea	_	VERB	_	_	0	root	_	Gloss=?-existir-3|Trad=hay
 4	nanta	_	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Trad=flor
 5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773273573206
-# text = Mo-ibuu kaneñ nojobe.
-# text[spa] = Jesus esta en el cielo.
-# sent_id = ejemplos:1598
-# tagged = false
-# text[orig] = Mo-ibuu kaneñ nojobe.
-# author = paula
-# finished = Yes
-1	Mo-ibuu	_	NOUN	_	_	0	root	_	_
-2	kaneñ	_	VERB	_	_	1	cop	_	Gloss=?-estar-3.HUM|Trad=está
-3	nojobe	_	NOUN	_	_	1	obl	_	SpaceAfter=No|Trad=cielo
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773364472482
@@ -30468,24 +28314,6 @@
 4	noo	no	ADJ	_	Typo=Yes	5	amod	_	Gloss=LOC|Normal=no|Trad=en
 5	dijú	_	VERB	_	_	1	xcomp	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773329984334
-# text = Sakó chines ú naneache nochi dijú nóʼö.
-# text[spa] = Él me ayudó a borrar el pizarrón.
-# sent_id = ejemplos:1614
-# tagged = false
-# text[orig] = Sakó chines ú naneache nochi dijú nóʼö.
-# author = paula
-# finished = Yes
-1	Sakó	sakó	PRON	_	PronType=Prs	2	nsubj	_	Gloss=3.MSC|Trad=él
-2	chines	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-ayudar-3.MSC|Trad=ayudó
-3	ú	uu	PRON	_	PronType=Prs	2	iobj	_	Gloss=1SG|Trad=yo
-4	naneache	_	VERB	_	_	2	ccomp	_	Trad=borrar
-5	nochi	_	ADV	_	AdvType=Rel	6	advmod	_	Trad=donde
-6	dijú	_	VERB	_	_	4	ccomp	_	_
-7	nóʼö	_	NOUN	_	_	6	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773330045698
@@ -30890,21 +28718,6 @@
 4	snu	_	VERB	_	_	0	root	_	Trad=tiene
 5	néabea	_	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Trad=gallina.ciega
 6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773446570743
-# text = Yaʼa yaku chiba neatuu.
-# text[spa] = Está muy caro el tomate.
-# sent_id = ejemplos:1641
-# tagged = true
-# text[orig] = Yaʼa yaku chiba neatuu.
-# author = paula
-# finished = Yes
-1	Yaʼa	_	NOUN	_	_	2	advmod	_	Trad=dolor
-2	yaku	_	ADJ	_	_	3	advmod	_	Trad=alto|UPOS=Guessed
-3	chiba	_	VERB	_	_	0	root	_	Trad=precio
-4	neatuu	_	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Trad=tomate
-5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773446590769
@@ -31725,22 +29538,6 @@
 9	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773429373184
-# text = Uu jita tii tochi icha.
-# text[spa] = Me duele la cabeza cuando hace frio.
-# sent_id = ejemplos:1965
-# tagged = true
-# text[orig] = uu jita tii tochi icha.
-# author = paula
-# finished = Yes
-1	Uu	uu	PRON	_	PronType=Prs|Typo=Yes	2	nsubj	_	Gloss=1SG|Normal=ú|Trad=yo
-2	jita	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-cantar-?|Trad=canta
-3	tii	_	NOUN	_	_	2	nsubj	_	Trad=cabeza
-4	tochi	tochi	SCONJ	_	_	5	mark	_	Gloss=cuando|Trad=cuando
-5	icha	_	ADJ	_	_	2	advcl	_	SpaceAfter=No|Trad=frío|UPOS=Guessed
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773429422048
 # text = Uu jiita runtiya tochi icha.
 # text[spa] = A mi me duele la rodilla cuando hace frio.
@@ -32050,21 +29847,6 @@
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773439668192
-# text = Neʼë ama lï ñeʼë.
-# text[spa] = Quiero un bebé mio.
-# sent_id = ejemplos:1987
-# tagged = true
-# text[orig] = neʼë ama lï ñeʼë.
-# author = paula
-# finished = Yes
-1	Neʼë	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-querer-1SG|Trad=quiero
-2	ama	_	NUM	_	NumType=Card	3	nummod	_	Trad=uno
-3	lï	_	NOUN	_	Number=Sing|VerbForm=Stat	1	obj	_	Trad=pequeño
-4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	3	nmod:poss	_	Gloss=base-POSS.1SG|SpaceAfter=No|Trad=de.mí
-5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773439707471
 # text = Uu gua eanu jinanu kuʼu.
 # text[spa] = A mi no me gusta lavar los platos.
@@ -32323,22 +30105,6 @@
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
-# timestamp = 1773441411102
-# text = Chida nuku chakun jinikuy tinuu.
-# text[spa] = Mi papa y mi mama venden ropa.
-# sent_id = ejemplos:2006
-# tagged = false
-# text[orig] = chida nuku chakun jinikuy tinuu.
-# author = paula
-# finished = Yes
-1	Chida	_	NOUN	_	_	3	conj	_	Trad=mi.papá
-2	nuku	nuku	CCONJ	_	_	1	cc	_	Gloss=con|Trad=con
-3	chakun	_	NOUN	_	_	4	nsubj	_	Trad=mi.mamá
-4	jinikuy	_	VERB	_	VerbForm=Fin	0	root	_	Gloss=?-vender-3.HUM|Trad=vende
-5	tinuu	_	NOUN	_	_	4	obj	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
 # timestamp = 1773441456324
 # text = Chichee jinikuy tiaka nuku nduu.
 # text[spa] = Mi abuelo vende platano y caña.
@@ -32387,23 +30153,6 @@
 4	yúduu	_	NOUN	_	_	2	nsubj	_	Trad=caballo
 5	danti	_	ADJ	_	_	4	amod	_	SpaceAfter=No|Trad=flojera|UPOS=Guessed
 6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-# user_id = MadaiH
-# timestamp = 1773441665980
-# text = Chaku nuku tankaya biʼin cheʼëñ neʼey.
-# text[spa] = Mi mama y mis hermanas fueron a bailar.
-# sent_id = ejemplos:2010
-# tagged = false
-# text[orig] = chaku nuku tankaya biʼin cheʼëñ neʼey.
-# author = paula
-# finished = Yes
-1	Chaku	_	NOUN	_	_	4	conj	_	Trad=mi.mamá
-2	nuku	nuku	CCONJ	_	_	1	cc	_	Gloss=con|Trad=con
-3	tankaya	_	NOUN	_	_	4	nmod	_	_
-4	biʼin	_	NOUN	_	_	5	nsubj	_	Trad=mi.hermana
-5	cheʼëñ	_	VERB	_	_	0	root	_	_
-6	neʼey	_	VERB	_	_	5	xcomp	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # user_id = MadaiH
 # timestamp = 1773441692554
