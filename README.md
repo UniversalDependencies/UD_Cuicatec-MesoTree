@@ -6,14 +6,14 @@ NSF-funded project "Syntactically-annotated corpora for endangered languages in 
 
 # Introduction
 
-Cuicatec (_dibaku_, _dbaku_, _dubaku_) is a Oto-Manguean language of the Mixtecan
+Cuicatec (_dibaku_, _dbaku_, _dubaku_) is an Oto-Manguean language of the Mixtecan
 branch, spoken in the southern Cañada region of Oaxaca, Mexico. The treebank is of Tepeuxila Cuicatec
 (_dbaku_), spoken in the communities around San Juan Tepeuxila.
 
 The pre-existing dictionary example sentences initially contemplated for annotation are in a variety of 
 Tepeuxila Cuicatec different from that of the collaborators, so the treebank was instead created by:
 
-* translating the elicitation sentences from the _Archivo de lenguas indígenas de México_ (ALIMG) (sentence IDs beginning wtih `alimg`);
+* translating the elicitation sentences from the _Archivo de lenguas indígenas de México_ (ALIMG) (sentence IDs beginning with `alimg`);
 * asking our collaborators to produce word lists and coming up with a sentence for each (sentence IDs beginning with `ejemplos`).
 
 The sentences are written following the collaborators' own orthographic norms for their language variety. 
