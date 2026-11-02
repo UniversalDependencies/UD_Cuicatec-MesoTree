@@ -77,7 +77,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Pugh, Robert; Tyers, Francis; Lezama Tejada, Lucía; Herrera Ojeda, Mazali Madai
+Contributors: Pugh, Robert; Tyers, Francis; Lezama Tejada, Lucía; Herrera Ojeda, Mazali Madai; Herrera Ojeda, María Lilia
 Contributing: elsewhere
 Contact: ftyers@iu.edu
 ===============================================================================
