@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1999</sentences><tokens>9893</tokens><words>9893</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>1999</sentences><tokens>9893</tokens><words>9893</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="55" /><!-- ., ñeʼe, uu, a, chi, ?, ¿, kaʼan, no, cheʼe, nuku, tochi, kua, dí, sakó -->
+  <forms unique="2143" /><!-- ., ama, a, bea, gua, ?, ¿, chi, yeabean, ñeʼe, ú, ñeʼë, no, baʼa, nuku -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">378</tag><!-- _, chi, no, taka -->
+    <tag name="ADP">216</tag><!-- no, nuku, _, ñeʼe, a, chi -->
+    <tag name="ADV">789</tag><!-- _, a, íku, taka, mojobe, kuʼö, no, nínu, míi, ndu -->
+    <tag name="AUX">63</tag><!-- _ -->
+    <tag name="CCONJ">20</tag><!-- _, nuku, chi -->
+    <tag name="DET">154</tag><!-- _, kaʼan, tumi -->
+    <tag name="INTJ">11</tag><!-- _ -->
+    <tag name="NOUN">2734</tag><!-- _, ñeʼe, ñoʼo, tumi, nínu, skuela, daya, kaʼan, no, acha -->
+    <tag name="NUM">320</tag><!-- _, inu, 100, 1994, 3000, ínu -->
+    <tag name="PART">175</tag><!-- a, _ -->
+    <tag name="PRON">496</tag><!-- uu, _, dí, sakó, takó, iñsë, insë, insú, ʼuu, chi -->
+    <tag name="PROPN">105</tag><!-- _, María, Jinguyu, Nóba, Juana, Julio, Nacho, no -->
+    <tag name="PUNCT">2173</tag><!-- ., ?, ¿, ,, !, ¡ -->
+    <tag name="SCONJ">224</tag><!-- chi, tochi, _ -->
+    <tag name="VERB">2034</tag><!-- _, kaʼan, cheʼe, kua, kanu, chi, te, kaka, kiyadu, kúʼu -->
+    <tag name="X">1</tag><!-- _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="20">
+    <feat name="Animacy" value="Hum" upos="VERB">19</feat><!-- chinuñ, chinuy, jeʼey, cheʼey, jeeya, jiyaduy -->
+    <feat name="Aspect" value="Perf" upos="VERB">55</feat><!-- ted, kuchis, chinuñ, chinu, chinus, chinuy, chika, chìnus, kuchid, Chínu -->
+    <feat name="Aspect" value="Prog" upos="VERB">30</feat><!-- jeʼe, jeʼey, jiyadus, Jiyadu, inu, jeeya, jiyaduy, jínus, íkad, ínu -->
+    <feat name="Gender" value="Masc" upos="VERB">28</feat><!-- kuchis, chinus, cheʼes, chis, chìnus, jiyadus, kunus, jínus -->
+    <feat name="Mood" value="Pot" upos="VERB">57</feat><!-- cheʼe, chee, cheʼed, cheʼes, chis, kunus, cheʼey, chíd, kàkad, cheed -->
+    <feat name="NounType" value="Clf" upos="NOUN">12</feat><!-- ta -->
+    <feat name="NounType" value="Relat" upos="ADP,NOUN">375</feat><!-- ñeʼe, ñeʼë, ñëʼe, ñeʼed, ñeʼeñ, ñeʼes, ñeʼëñ, ñeʼen, ñee, ñeʼën -->
+    <feat name="Number" value="Sing" upos="ADJ,VERB">111</feat><!-- cheʼe, jeʼe, lï, ted, chee, cheʼed, chinu, chika, kuchid, Chínu -->
+    <feat name="NumType" value="Card" upos="NUM">234</feat><!-- ama, inu, Nini, juú, neache, nichi, ínu -->
+    <feat name="Person" value="1" upos="VERB">65</feat><!-- cheʼe, jeʼe, chee, chinu, chika, Chínu, Jiyadu, cheé, chíka, inu -->
+    <feat name="Person" value="2" upos="VERB">30</feat><!-- ted, cheʼed, kuchid, chíd, kàkad, cheed, cheéd, íkad -->
+    <feat name="Person" value="3" upos="VERB">47</feat><!-- kuchis, chinuñ, chinus, chinuy, jeʼey, cheʼes, chis, chìnus, jiyadus, kunus -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">36</feat><!-- kun, min, sen -->
+    <feat name="PronType" value="Int" upos="PRON">24</feat><!-- duʼu, chea, Adeea, duuʼu -->
+    <feat name="PronType" value="Prs" upos="PRON,VERB">363</feat><!-- ú, uu, dí, un, sakó, takó, u, insú, iñsé, sakón -->
+    <feat name="Subcat" value="Intr" upos="VERB">21</feat><!-- kuchis, chis, jiyadus, kuchid, chíd, Jiyadu, jiyaduy -->
+    <feat name="Subcat" value="Tran" upos="VERB">129</feat><!-- cheʼe, jeʼe, ted, chinuñ, chee, cheʼed, chinu, chinus, chinuy, jeʼey -->
+    <feat name="Typo" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,SCONJ,VERB">344</feat><!-- uu, un, ñëʼe, noo, iku, yeaben, nʼiba, koʼod, biku, u -->
+    <feat name="VerbForm" value="Fin" upos="AUX,DET,NOUN,VERB">864</feat><!-- neʼe, cheʼe, nichi, koʼo, koʼö, neʼë, cheʼë, jinikuy, jeʼe, ted -->
+    <feat name="VerbForm" value="Stat" upos="ADJ,VERB">51</feat><!-- cheatea, lï, cheate, chéatea, dituu, cheanuu, dituuy -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="33">
+    <dep name="acl">34</dep>
+    <dep name="advcl">100</dep>
+    <dep name="advmod">825</dep>
+    <dep name="amod">101</dep>
+    <dep name="appos">4</dep>
+    <dep name="aux">31</dep>
+    <dep name="case">227</dep>
+    <dep name="cc">17</dep>
+    <dep name="ccomp">92</dep>
+    <dep name="clf">13</dep>
+    <dep name="compound">26</dep>
+    <dep name="conj">13</dep>
+    <dep name="cop">31</dep>
+    <dep name="csubj">15</dep>
+    <dep name="dep">81</dep>
+    <dep name="det">161</dep>
+    <dep name="discourse">140</dep>
+    <dep name="dislocated">66</dep>
+    <dep name="flat">1</dep>
+    <dep name="iobj">44</dep>
+    <dep name="mark">205</dep>
+    <dep name="nmod">202</dep>
+    <dep name="nmod:poss">323</dep>
+    <dep name="nsubj">1211</dep>
+    <dep name="nummod">302</dep>
+    <dep name="obj">813</dep>
+    <dep name="obl">403</dep>
+    <dep name="orphan">3</dep>
+    <dep name="parataxis">8</dep>
+    <dep name="punct">2173</dep>
+    <dep name="root">1999</dep>
+    <dep name="vocative">2</dep>
+    <dep name="xcomp">227</dep>
+  </deps>
+</treebank>
