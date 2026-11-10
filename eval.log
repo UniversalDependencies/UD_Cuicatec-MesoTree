@@ -1,0 +1,51 @@
+Running the following version of UD tools:
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 10 13:08:27 2026 +0100
+Evaluating the following revision of UD_Cuicatec-MesoTree:
+commit b3f9710f5da0440e909798783269e3fb38b1fa17
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Nov 8 12:01:07 2026 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'cux_mesotree'
+Language code (from CoNLL-U file name) = 'cux'
+Found the following data files: cux_mesotree-ud-test.conllu
+Size: counted 9893 of 9893 words (nodes).
+Size: min(0, log((N/1000)**2)) = 4.58365487268217.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: '_' is the most frequent lemma.
+Universal POS tags: 16 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 2108 out of 9893 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 32 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 1 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang cux --max-err=10 UD_Cuicatec-MesoTree/cux_mesotree-ud-test.conllu
+[Line 170 Sent alimg:12:3]: [L3 WARNING pron-det-without-prontype] The word 'mi' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 187 Sent alimg:13:4]: [L3 WARNING pron-det-without-prontype] The word 'mi' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 313 Sent alimg:22:8]: [L3 WARNING pron-det-without-prontype] The word 'Dín' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 327 Sent alimg:23:8]: [L3 WARNING pron-det-without-prontype] The word 'Intin' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 455 Sent alimg:32:8]: [L3 WARNING pron-det-without-prontype] The word 'Dín' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 810 Sent alimg:59:8]: [L3 WARNING pron-det-without-prontype] The word 'Dín' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1120 Sent alimg:87:20]: [L3 WARNING pron-det-without-prontype] The word 'Dae' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1123 Sent alimg:87:20]: [L3 WARNING pron-det-without-prontype] The word 'mi' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1492 Sent alimg:118:40]: [L3 WARNING verbform-fin-without-mood] Finite verb 'kueʼeñ' lacks the 'Mood' feature
+[Line 1544 Sent alimg:121:43]: [L3 WARNING verbform-fin-without-mood] Finite verb 'kanú' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 1039
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
+(weight=0.37037037037037) * (score{size}=0.331776003025803) = 0.122880001120668
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
+(weight=0.111111111111111) * (score{udeprels}=0.864864864864865) = 0.0960960960960961
+(TOTAL score=0.364909285306815) * (availability=1) * (validity=1) = 0.364909285306815
+STARS = 2
+UD_Cuicatec-MesoTree	0.364909285306815	2
